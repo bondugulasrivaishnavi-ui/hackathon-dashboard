@@ -2,7 +2,6 @@ name: Hackathon Auto Ingestion (With AI Agent)
 
 on:
   schedule:
-    # Runs every 3 hours → ensures <24h freshness
     - cron: "0 */3 * * *"
   workflow_dispatch:
 
@@ -11,39 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "18"
 
-      - name: Install dependencies
-        run: |
-          npm init -y
-          npm install node-fetch
+      - name: Run platform ingestion
+        run: node scripts/ingest.js
 
-      # -----------------------------
-      # Layer 1: Platform ingestion
-      # -----------------------------
-      - name: Run platform ingestion (Unstop, Devfolio, etc.)
-        run: |
-          node scripts/ingest.js
-
-      # -----------------------------
-      # Layer 2 & 3: AI-assisted ingestion
-      # -----------------------------
-      - name: Run AI agent ingestion (Institutions & Community)
+      - name: Run AI agent ingestion
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          node scripts/ai_ingest.js
+        run: node scripts/ai_ingest.js
 
-      # -----------------------------
-      # Commit updated data
-      # -----------------------------
-      - name: Commit updated hackathon data
+      - name: Commit updated data
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"

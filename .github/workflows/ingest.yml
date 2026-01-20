@@ -1,8 +1,8 @@
-name: Hackathon Auto Ingestion
+name: Hackathon Auto Ingestion (With AI Agent)
 
 on:
   schedule:
-    # Runs every 3 hours (guarantees <24h freshness)
+    # Runs every 3 hours → ensures <24h freshness
     - cron: "0 */3 * * *"
   workflow_dispatch:
 
@@ -19,14 +19,34 @@ jobs:
         with:
           node-version: "18"
 
-      - name: Run ingestion script
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install node-fetch
+
+      # -----------------------------
+      # Layer 1: Platform ingestion
+      # -----------------------------
+      - name: Run platform ingestion (Unstop, Devfolio, etc.)
         run: |
           node scripts/ingest.js
 
+      # -----------------------------
+      # Layer 2 & 3: AI-assisted ingestion
+      # -----------------------------
+      - name: Run AI agent ingestion (Institutions & Community)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          node scripts/ai_ingest.js
+
+      # -----------------------------
+      # Commit updated data
+      # -----------------------------
       - name: Commit updated hackathon data
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/hackathons.json
-          git commit -m "auto: update hackathons data" || echo "No changes"
+          git commit -m "auto: update hackathons (platform + AI)" || echo "No changes"
           git push

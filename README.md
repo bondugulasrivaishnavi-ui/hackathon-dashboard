@@ -1,34 +1,40 @@
-# Hackathon Dashboard
 
-An automated platform that aggregates hackathons from multiple sources and displays them on a single dashboard within 24 hours of posting.
+---
 
-## 🚀 Problem
-Students miss hackathons because announcements are scattered across multiple platforms like Unstop, Devfolio, LinkedIn, and college groups.
+## 🧑‍⚖️ Judge Explanation (One-Liner)
 
-## 💡 Solution
-This project automatically collects hackathon data from trusted sources and shows:
-- Newly posted hackathons (last 24 hours)
-- Upcoming hackathons (this month / next 2 months)
-- Direct source links for full details
+> “We use a layered ingestion system with automated, institutional, and community sources to ensure no hackathon is missed while maintaining ethical data collection.”
 
-## 🔗 Sources Covered
-- Unstop
-- Devfolio
-- HackerEarth
-- Devpost
-- Major League Hacking (India)
-- Hackathon.com
-- Hackalist
-- TAIKAI
-- LinkedIn Events
-- Telangana ecosystem sources (T-Hub, WE Hub, TASK, T-Works)
-- College & community submissions
+---
 
-## 🛠️ Tech Stack (Planned)
-- Data ingestion: Node.js (scheduled scraping)
-- Database: MongoDB
-- Frontend: HTML, CSS, JavaScript
-- Deployment: GitHub Pages (dashboard)
+## 🚧 Future Enhancements
+
+- User login & personalization
+- Notifications (email / WhatsApp)
+- Team-matching
+- Admin verification panel
+- State-wise priority (Telangana-first)
+
+---
+
+## 🌟 Why This Project Stands Out
+
+- Solves a **real student pain point**
+- Architected like a **real startup**
+- Ethical data collection
+- Scalable & extensible
+- Not just a UI — a **system**
+
+---
+
+## 📌 Live Demo
+
+🔗 Deployed using GitHub Pages  
+(Use the repository URL → Pages)
+
+---
+
+## 🙌 Built For Students. Built to Scale.
 
 ## 📌 Status
 🚧 Work in progress — initial setup

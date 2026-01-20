@@ -1,104 +1,110 @@
 /**
- * Hackathon Ingestion Engine (Foundation)
- * --------------------------------------
- * This script is responsible for:
- * - Fetching hackathons from sources
- * - Normalizing data
- * - Writing to data/hackathons.json
- * - Ensuring 24-hour freshness guarantee
+ * Hackathon Ingestion Engine – REAL VERSION (Unstop)
+ * -------------------------------------------------
+ * This script:
+ * - Fetches live hackathons from Unstop (public listing)
+ * - Normalizes data
+ * - Writes to data/hackathons.json
+ * - Prevents duplicates
  *
- * NOTE:
- * - Today: source fetchers are placeholders
- * - Tomorrow: real Unstop / Devfolio scrapers plug in here
+ * Runs automatically via GitHub Actions every 3 hours
  */
 
 const fs = require("fs");
 const path = require("path");
+const https = require("https");
 
 const DATA_PATH = path.join(__dirname, "../data/hackathons.json");
 
-// ----------------------------------
-// Utility: Load existing data
-// ----------------------------------
+// --------------------------------------------------
+// Helpers
+// --------------------------------------------------
 function loadExistingHackathons() {
   if (!fs.existsSync(DATA_PATH)) return [];
-  const raw = fs.readFileSync(DATA_PATH, "utf-8");
-  return JSON.parse(raw);
+  return JSON.parse(fs.readFileSync(DATA_PATH, "utf-8"));
 }
 
-// ----------------------------------
-// Utility: Save data
-// ----------------------------------
-function saveHackathons(hackathons) {
-  fs.writeFileSync(
-    DATA_PATH,
-    JSON.stringify(hackathons, null, 2),
-    "utf-8"
-  );
+function saveHackathons(data) {
+  fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 2), "utf-8");
 }
 
-// ----------------------------------
-// Core rule: uniqueness by source + id
-// ----------------------------------
 function isDuplicate(existing, incoming) {
   return existing.some(
     h => h.source === incoming.source && h.id === incoming.id
   );
 }
 
-// ----------------------------------
-// SOURCE FETCHERS (PLUG-IN ARCHITECTURE)
-// ----------------------------------
+function fetchJSON(url) {
+  return new Promise((resolve, reject) => {
+    https
+      .get(url, res => {
+        let data = "";
+        res.on("data", chunk => (data += chunk));
+        res.on("end", () => {
+          try {
+            resolve(JSON.parse(data));
+          } catch (e) {
+            reject(e);
+          }
+        });
+      })
+      .on("error", reject);
+  });
+}
 
+// --------------------------------------------------
+// REAL SOURCE: UNSTOP (Public API used by frontend)
+// --------------------------------------------------
 async function fetchFromUnstop() {
-  // Placeholder (real scraper later)
-  return [];
+  console.log("🔎 Fetching from Unstop...");
+
+  const url =
+    "https://unstop.com/api/public/opportunity/search-result?opportunity=hackathons&page=1&per_page=20";
+
+  const json = await fetchJSON(url);
+
+  if (!json || !json.data || !json.data.data) return [];
+
+  return json.data.data.map(item => ({
+    id: `unstop_${item.id}`,
+    name: item.title,
+    source: "Unstop",
+    source_url: `https://unstop.com/${item.slug}`,
+    location: item.region || "India",
+    mode: item.mode || "Online",
+    uploaded_at: item.created_at,
+    start_date: item.start_date,
+    end_date: item.end_date
+  }));
 }
 
-async function fetchFromDevfolio() {
-  // Placeholder (real scraper later)
-  return [];
-}
-
-async function fetchFromHackerEarth() {
-  // Placeholder (real scraper later)
-  return [];
-}
-
-// ----------------------------------
-// Main Ingestion Pipeline
-// ----------------------------------
+// --------------------------------------------------
+// MAIN INGESTION PIPELINE
+// --------------------------------------------------
 async function ingest() {
-  console.log("🚀 Starting hackathon ingestion...");
+  console.log("🚀 Starting hackathon ingestion");
 
-  const existingHackathons = loadExistingHackathons();
-  let allHackathons = [...existingHackathons];
+  const existing = loadExistingHackathons();
+  let all = [...existing];
 
-  const sources = [
-    fetchFromUnstop,
-    fetchFromDevfolio,
-    fetchFromHackerEarth
-  ];
+  const sources = [fetchFromUnstop];
 
-  for (const fetchSource of sources) {
-    const newHackathons = await fetchSource();
+  for (const source of sources) {
+    const incoming = await source();
 
-    for (const hackathon of newHackathons) {
-      if (!isDuplicate(allHackathons, hackathon)) {
-        hackathon.uploaded_at = hackathon.uploaded_at || new Date().toISOString();
-        allHackathons.push(hackathon);
+    for (const hackathon of incoming) {
+      if (!isDuplicate(all, hackathon)) {
+        all.push(hackathon);
       }
     }
   }
 
-  saveHackathons(allHackathons);
+  saveHackathons(all);
 
-  console.log(`✅ Ingestion complete. Total hackathons: ${allHackathons.length}`);
+  console.log(`✅ Done. Total hackathons stored: ${all.length}`);
 }
 
-// ----------------------------------
-// Run
-// ----------------------------------
+// --------------------------------------------------
 ingest().catch(err => {
   console.error("❌ Ingestion failed:", err);
 });

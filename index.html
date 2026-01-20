@@ -2,68 +2,102 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Hackathon Dashboard</title>
+  <title>Telangana Hackathon Tracker</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
-<body class="bg-gray-100 text-gray-800">
+<body class="bg-gray-50 text-gray-800">
 
   <!-- Header -->
-  <header class="bg-gray-900 text-white">
-    <div class="max-w-7xl mx-auto px-6 py-4">
-      <h1 class="text-2xl font-bold">Hackathon Dashboard</h1>
-      <p class="text-sm text-gray-300">
-        Auto-updated hackathons within 24 hours • College-wise search
+  <header class="bg-white border-b">
+    <div class="max-w-6xl mx-auto px-4 py-4">
+      <h1 class="text-xl font-semibold flex items-center gap-2">
+        <span class="text-emerald-600">⟨⟩</span>
+        Telangana Hackathon Tracker
+      </h1>
+      <p class="text-sm text-gray-500">
+        Coverage-Max · Academic Analysis Tool
       </p>
     </div>
   </header>
 
   <!-- Main -->
-  <main class="max-w-7xl mx-auto px-6 py-8">
+  <main class="max-w-6xl mx-auto px-4 py-6">
 
-    <!-- Title, Search & Filters -->
-    <div class="flex flex-col gap-4 mb-6">
+    <!-- Search -->
+    <div class="mb-4">
+      <input
+        id="searchInput"
+        type="text"
+        placeholder="Search hackathons, colleges, themes…"
+        class="w-full px-4 py-3 rounded-xl border focus:outline-none focus:ring focus:border-emerald-500"
+        oninput="applyFilters()"
+      />
+    </div>
 
-      <h2 class="text-xl font-semibold">Upcoming Hackathons</h2>
+    <!-- Tabs -->
+    <div class="flex gap-6 border-b mb-6 text-sm">
+      <button class="pb-2 border-b-2 border-emerald-600 text-emerald-600 font-medium">
+        🌐 All Events
+      </button>
+      <button class="pb-2 text-gray-500">
+        🌍 Open / External
+      </button>
+    </div>
 
-      <div class="flex flex-col sm:flex-row gap-3">
-
-        <!-- College Search -->
-        <input
-          id="collegeSearch"
-          type="text"
-          placeholder="Search by college (CBIT, VNR, JNTUH, IIIT-H...)"
-          class="w-full sm:w-1/2 px-4 py-2 border rounded-lg focus:outline-none focus:ring focus:border-blue-500"
-          oninput="filterByCollege()"
-        />
-
-        <!-- Date Filters -->
-        <div class="flex gap-2 flex-wrap">
-          <button onclick="filterByRange('month')" class="px-4 py-2 text-sm bg-gray-900 text-white rounded-lg">
-            This Month
-          </button>
-          <button onclick="filterByRange('2months')" class="px-4 py-2 text-sm bg-gray-200 rounded-lg">
-            Next 2 Months
-          </button>
-          <button onclick="filterByRange('all')" class="px-4 py-2 text-sm bg-gray-100 rounded-lg">
-            All
-          </button>
+    <!-- Filters -->
+    <div class="bg-white rounded-xl p-4 mb-6 shadow-sm border">
+      <div class="flex items-center justify-between mb-3">
+        <div class="flex items-center gap-2 font-medium">
+          🔎 Filters
         </div>
+        <button onclick="resetFilters()" class="text-sm text-gray-500">
+          Clear
+        </button>
+      </div>
 
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 text-sm">
+        <select id="dateFilter" class="border rounded-lg px-3 py-2" onchange="applyFilters()">
+          <option value="1m">Next 1 Month</option>
+          <option value="2m">Next 2 Months</option>
+          <option value="all">All Dates</option>
+        </select>
+
+        <select id="sourceFilter" class="border rounded-lg px-3 py-2" onchange="applyFilters()">
+          <option value="all">All Sources</option>
+          <option value="Unstop">Unstop</option>
+          <option value="Devfolio">Devfolio</option>
+          <option value="HackerEarth">HackerEarth</option>
+        </select>
+
+        <select id="collegeFilter" class="border rounded-lg px-3 py-2" onchange="applyFilters()">
+          <option value="all">All Colleges</option>
+        </select>
+
+        <select id="statusFilter" class="border rounded-lg px-3 py-2" onchange="applyFilters()">
+          <option value="all">All Status</option>
+          <option value="new">New (24h)</option>
+        </select>
       </div>
     </div>
 
-    <!-- Hackathon Cards -->
-    <div
-      id="hackathonList"
-      class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
-    ></div>
+    <!-- Results Info -->
+    <p id="countText" class="text-sm text-gray-500 mb-4">
+      Showing 0 hackathons
+    </p>
 
-    <!-- Footer -->
-    <footer class="mt-12 text-center text-sm text-gray-500">
-      Telangana-first • Automated + Community-powered
-    </footer>
+    <!-- Hackathon List -->
+    <div id="hackathonList" class="space-y-4"></div>
+
+    <!-- Empty State -->
+    <div id="emptyState" class="hidden bg-white rounded-xl p-10 text-center border">
+      <div class="text-4xl mb-3">⚠️</div>
+      <h3 class="font-semibold mb-1">No hackathons found</h3>
+      <p class="text-sm text-gray-500">
+        Try adjusting your filters or search query
+      </p>
+    </div>
 
   </main>
 

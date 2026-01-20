@@ -10,22 +10,37 @@
 
 </head>
 
-<body>
+<body class="bg-gray-100 text-gray-800">
 
-  <header>
-    <h1>Hackathon Dashboard</h1>
-    <p>All hackathons, auto-updated within 24 hours</p>
+  <!-- Header -->
+  <header class="bg-gray-900 text-white">
+    <div class="max-w-7xl mx-auto px-6 py-4">
+      <h1 class="text-2xl font-bold">Hackathon Dashboard</h1>
+      <p class="text-sm text-gray-300">
+        Auto-updated hackathons within 24 hours of posting
+      </p>
+    </div>
   </header>
 
-  <main>
-    <div class="section-title">Upcoming Hackathons</div>
+  <!-- Main Content -->
+  <main class="max-w-7xl mx-auto px-6 py-8">
 
-    <!-- FINAL container: data will be injected here -->
-    <div id="hackathonList" class="hackathon-list">
-      <!-- Hackathon cards will appear here -->
+    <!-- Section Title -->
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="text-xl font-semibold">Upcoming Hackathons</h2>
     </div>
-  </main>
-<script src="app.js"></script>
 
+    <!-- Hackathon Cards Grid -->
+    <div
+      id="hackathonList"
+      class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
+    >
+      <!-- Cards will be injected here -->
+    </div>
+
+  </main>
+
+  <script src="app.js"></script>
 </body>
+
 </html>

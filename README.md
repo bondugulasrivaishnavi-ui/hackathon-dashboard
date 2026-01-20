@@ -1,7 +1,7 @@
 
 ---
 
-## 🧑‍⚖️ Judge Explanation (One-Liner)
+
 
 > “We use a layered ingestion system with automated, institutional, and community sources to ensure no hackathon is missed while maintaining ethical data collection.”
 

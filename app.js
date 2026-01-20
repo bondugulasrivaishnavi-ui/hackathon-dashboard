@@ -9,33 +9,34 @@ function isWithinLast24Hours(uploadedAt) {
 }
 
 // ===============================
-// Global storage for all hackathons
+// Global storage
 // ===============================
 let allHackathons = [];
+let currentFiltered = [];
 
 // ===============================
-// Load hackathons from data file
+// Load data
 // ===============================
 async function loadHackathons() {
   try {
     const response = await fetch("data/hackathons.json");
-    const hackathons = await response.json();
-
-    allHackathons = hackathons;
-    renderHackathons(allHackathons);
-  } catch (error) {
-    console.error("Failed to load hackathons:", error);
+    const data = await response.json();
+    allHackathons = data;
+    currentFiltered = data;
+    renderHackathons(currentFiltered);
+  } catch (err) {
+    console.error("Failed to load data", err);
   }
 }
 
 // ===============================
-// Render hackathon cards
+// Render cards
 // ===============================
-function renderHackathons(hackathons) {
+function renderHackathons(list) {
   const container = document.getElementById("hackathonList");
   container.innerHTML = "";
 
-  hackathons.forEach(h => {
+  list.forEach(h => {
     const isNew = isWithinLast24Hours(h.uploaded_at);
 
     const card = document.createElement("div");
@@ -44,37 +45,23 @@ function renderHackathons(hackathons) {
 
     card.innerHTML = `
       <div>
-        <div class="flex items-start justify-between">
-          <h3 class="text-lg font-semibold text-gray-900">
-            ${h.name}
-          </h3>
+        <div class="flex justify-between items-start">
+          <h3 class="text-lg font-semibold">${h.name}</h3>
           ${
             isNew
-              ? `<span class="text-xs bg-green-100 text-green-700 px-2 py-1 rounded-full">
-                   NEW
-                 </span>`
+              ? `<span class="text-xs bg-green-100 text-green-700 px-2 py-1 rounded-full">NEW</span>`
               : ""
           }
         </div>
 
-        <p class="mt-2 text-sm text-gray-600">
-          📍 ${h.location} • ${h.mode}
-        </p>
-
-        <p class="mt-1 text-sm text-gray-600">
-          📅 ${h.start_date} → ${h.end_date}
-        </p>
-
-        <p class="mt-1 text-xs text-gray-400">
-          Posted: ${new Date(h.uploaded_at).toLocaleString()}
-        </p>
+        <p class="mt-2 text-sm text-gray-600">📍 ${h.location} • ${h.mode}</p>
+        <p class="mt-1 text-sm text-gray-600">🎓 ${h.college || "Open / Multiple Colleges"}</p>
+        <p class="mt-1 text-sm text-gray-600">📅 ${h.start_date} → ${h.end_date}</p>
+        <p class="mt-1 text-xs text-gray-400">Posted: ${new Date(h.uploaded_at).toLocaleString()}</p>
       </div>
 
-      <a
-        href="${h.source_url}"
-        target="_blank"
-        class="mt-4 inline-block text-center bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium py-2 rounded-lg"
-      >
+      <a href="${h.source_url}" target="_blank"
+         class="mt-4 text-center bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-lg text-sm">
         View on ${h.source}
       </a>
     `;
@@ -84,36 +71,43 @@ function renderHackathons(hackathons) {
 }
 
 // ===============================
-// Filter by date range
+// Date Filters
 // ===============================
 function filterByRange(type) {
   const now = new Date();
-  let filtered = [];
 
   if (type === "month") {
-    filtered = allHackathons.filter(h => {
-      const start = new Date(h.start_date);
-      return (
-        start.getMonth() === now.getMonth() &&
-        start.getFullYear() === now.getFullYear()
-      );
+    currentFiltered = allHackathons.filter(h => {
+      const d = new Date(h.start_date);
+      return d.getMonth() === now.getMonth() && d.getFullYear() === now.getFullYear();
     });
   } else if (type === "2months") {
     const future = new Date();
     future.setMonth(future.getMonth() + 2);
-
-    filtered = allHackathons.filter(h => {
-      const start = new Date(h.start_date);
-      return start >= now && start <= future;
+    currentFiltered = allHackathons.filter(h => {
+      const d = new Date(h.start_date);
+      return d >= now && d <= future;
     });
   } else {
-    filtered = allHackathons;
+    currentFiltered = allHackathons;
   }
+
+  renderHackathons(currentFiltered);
+}
+
+// ===============================
+// College Search
+// ===============================
+function filterByCollege() {
+  const query = document.getElementById("collegeSearch").value.toLowerCase();
+
+  const filtered = currentFiltered.filter(h => {
+    if (!h.college) return true;
+    return h.college.toLowerCase().includes(query) || h.college.toLowerCase().includes("open");
+  });
 
   renderHackathons(filtered);
 }
 
-// ===============================
-// Start the app
 // ===============================
 loadHackathons();

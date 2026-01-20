@@ -1,6 +1,6 @@
 /**
  * AI-assisted ingestion for Layer 2 & Layer 3
- * Uses CommonJS (require) to work in GitHub Actions
+ * Final CommonJS version – GitHub Actions safe
  */
 
 const fs = require("fs");
@@ -11,43 +11,43 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const DATA_PATH = path.join(process.cwd(), "data/hackathons.json");
 
 // ----------------------------
-// Helper: call OpenAI
+// Call OpenAI safely
 // ----------------------------
 async function extractHackathonFromText(rawText) {
   if (!OPENAI_API_KEY) {
     throw new Error("OPENAI_API_KEY is not set");
   }
 
-  const prompt = `
-Extract hackathon details from the text below.
-Return ONLY valid JSON in this format:
+  const prompt =
+    "Extract hackathon details from the text below.\n" +
+    "Return ONLY valid JSON in this format:\n\n" +
+    "{\n" +
+    '  "name": "",\n' +
+    '  "college": "",\n' +
+    '  "location": "",\n' +
+    '  "start_date": "",\n' +
+    '  "end_date": "",\n' +
+    '  "mode": "Online | Offline",\n' +
+    '  "confidence": "high | medium | low"\n' +
+    "}\n\n" +
+    "Text:\n" +
+    rawText;
 
-{
-  "name": "",
-  "college": "",
-  "location": "",
-  "start_date": "",
-  "end_date": "",
-  "mode": "Online | Offline",
-  "confidence": "high | medium | low"
-}
-
-Text:
-${rawText}
-`;
-
-  const response = await fetch("https://api.openai.com/v1/chat/completions", {
-    method: "POST",
-    headers: {
-      "Authorization": \`Bearer ${OPENAI_API_KEY}\`,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      model: "gpt-4o-mini",
-      messages: [{ role: "user", content: prompt }],
-      temperature: 0
-    })
-  });
+  const response = await fetch(
+    "https://api.openai.com/v1/chat/completions",
+    {
+      method: "POST",
+      headers: {
+        "Authorization": "Bearer " + OPENAI_API_KEY,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        model: "gpt-4o-mini",
+        messages: [{ role: "user", content: prompt }],
+        temperature: 0
+      })
+    }
+  );
 
   const data = await response.json();
   return JSON.parse(data.choices[0].message.content);
@@ -67,32 +67,24 @@ function saveDB(data) {
 
 // ----------------------------
 // Example raw inputs (placeholder)
-// Later these come from crawlers / OCR
 // ----------------------------
 const RAW_INPUTS = [
   {
     source: "CBIT Website",
     source_type: "institutional",
-    raw_text: `
-CBIT is organizing an Innovation Hackathon 2026
-from Feb 12 to Feb 14 at Gandipet campus.
-Open for all engineering colleges.
-`
+    raw_text:
+      "CBIT is organizing an Innovation Hackathon 2026 from Feb 12 to Feb 14 at Gandipet campus. Open for all engineering colleges."
   },
   {
     source: "Instagram Poster",
     source_type: "community",
-    raw_text: `
-🚀 HACKATHON ALERT 🚀
-VNR VJIET presents CODEFEST
-March 3–4, 2026
-Offline event
-`
+    raw_text:
+      "VNR VJIET presents CODEFEST Hackathon March 3 to March 4 Offline event."
   }
 ];
 
 // ----------------------------
-// Main AI ingestion
+// Main execution
 // ----------------------------
 async function runAIIngestion() {
   console.log("🤖 AI ingestion started");
@@ -103,7 +95,7 @@ async function runAIIngestion() {
     const extracted = await extractHackathonFromText(input.raw_text);
 
     db.push({
-      id: `ai_${Date.now()}`,
+      id: "ai_" + Date.now(),
       name: extracted.name || "Unnamed Hackathon",
       college: extracted.college || "Open",
       location: extracted.location || "India",

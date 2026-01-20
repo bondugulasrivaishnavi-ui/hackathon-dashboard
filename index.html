@@ -4,8 +4,6 @@
   <meta charset="UTF-8" />
   <title>Hackathon Dashboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
@@ -16,39 +14,43 @@
     <div class="max-w-7xl mx-auto px-6 py-4">
       <h1 class="text-2xl font-bold">Hackathon Dashboard</h1>
       <p class="text-sm text-gray-300">
-        All hackathons auto-added within 24 hours from official sources
+        Auto-updated hackathons within 24 hours • College-wise search
       </p>
     </div>
   </header>
 
-  <!-- Main Content -->
+  <!-- Main -->
   <main class="max-w-7xl mx-auto px-6 py-8">
 
-    <!-- Title + Filters -->
-    <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-6 gap-4">
+    <!-- Title, Search & Filters -->
+    <div class="flex flex-col gap-4 mb-6">
+
       <h2 class="text-xl font-semibold">Upcoming Hackathons</h2>
 
-      <div class="flex gap-2 flex-wrap">
-        <button
-          onclick="filterByRange('month')"
-          class="px-4 py-2 text-sm bg-gray-900 text-white rounded-lg hover:bg-gray-800"
-        >
-          This Month
-        </button>
+      <div class="flex flex-col sm:flex-row gap-3">
 
-        <button
-          onclick="filterByRange('2months')"
-          class="px-4 py-2 text-sm bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300"
-        >
-          Next 2 Months
-        </button>
+        <!-- College Search -->
+        <input
+          id="collegeSearch"
+          type="text"
+          placeholder="Search by college (CBIT, VNR, JNTUH, IIIT-H...)"
+          class="w-full sm:w-1/2 px-4 py-2 border rounded-lg focus:outline-none focus:ring focus:border-blue-500"
+          oninput="filterByCollege()"
+        />
 
-        <button
-          onclick="filterByRange('all')"
-          class="px-4 py-2 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200"
-        >
-          All
-        </button>
+        <!-- Date Filters -->
+        <div class="flex gap-2 flex-wrap">
+          <button onclick="filterByRange('month')" class="px-4 py-2 text-sm bg-gray-900 text-white rounded-lg">
+            This Month
+          </button>
+          <button onclick="filterByRange('2months')" class="px-4 py-2 text-sm bg-gray-200 rounded-lg">
+            Next 2 Months
+          </button>
+          <button onclick="filterByRange('all')" class="px-4 py-2 text-sm bg-gray-100 rounded-lg">
+            All
+          </button>
+        </div>
+
       </div>
     </div>
 
@@ -56,19 +58,15 @@
     <div
       id="hackathonList"
       class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
-    >
-      <!-- Cards injected by app.js -->
-    </div>
+    ></div>
 
     <!-- Footer -->
     <footer class="mt-12 text-center text-sm text-gray-500">
-      Built for students • Telangana-first • Open-source
+      Telangana-first • Automated + Community-powered
     </footer>
 
   </main>
 
-  <!-- App Logic -->
   <script src="app.js"></script>
-
 </body>
 </html>

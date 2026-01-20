@@ -1,68 +1,99 @@
-// ===============================
-// Utility: check if uploaded within last 24 hours
-// ===============================
-function isWithinLast24Hours(uploadedAt) {
-  const now = new Date();
-  const uploadedTime = new Date(uploadedAt);
-  const diffInHours = (now - uploadedTime) / (1000 * 60 * 60);
-  return diffInHours <= 24;
-}
-
-// ===============================
-// Global storage
-// ===============================
 let allHackathons = [];
-let currentFiltered = [];
 
-// ===============================
-// Load data
-// ===============================
-async function loadHackathons() {
-  try {
-    const response = await fetch("data/hackathons.json");
-    const data = await response.json();
-    allHackathons = data;
-    currentFiltered = data;
-    renderHackathons(currentFiltered);
-  } catch (err) {
-    console.error("Failed to load data", err);
-  }
+function isWithin24h(date) {
+  return (new Date() - new Date(date)) / (1000 * 60 * 60) <= 24;
 }
 
-// ===============================
-// Render cards
-// ===============================
-function renderHackathons(list) {
+async function loadHackathons() {
+  const res = await fetch("data/hackathons.json");
+  allHackathons = await res.json();
+  populateCollegeFilter();
+  applyFilters();
+}
+
+function populateCollegeFilter() {
+  const select = document.getElementById("collegeFilter");
+  const colleges = new Set();
+
+  allHackathons.forEach(h => {
+    if (h.college) colleges.add(h.college);
+  });
+
+  colleges.forEach(c => {
+    const opt = document.createElement("option");
+    opt.value = c;
+    opt.textContent = c;
+    select.appendChild(opt);
+  });
+}
+
+function applyFilters() {
+  const search = document.getElementById("searchInput").value.toLowerCase();
+  const dateRange = document.getElementById("dateFilter").value;
+  const source = document.getElementById("sourceFilter").value;
+  const college = document.getElementById("collegeFilter").value;
+  const status = document.getElementById("statusFilter").value;
+
+  let list = allHackathons.filter(h => {
+    const matchSearch =
+      h.name.toLowerCase().includes(search) ||
+      (h.college || "").toLowerCase().includes(search);
+
+    if (!matchSearch) return false;
+
+    if (source !== "all" && h.source !== source) return false;
+    if (college !== "all" && h.college !== college) return false;
+    if (status === "new" && !isWithin24h(h.uploaded_at)) return false;
+
+    if (dateRange !== "all") {
+      const end = new Date();
+      end.setMonth(end.getMonth() + (dateRange === "1m" ? 1 : 2));
+      if (new Date(h.start_date) > end) return false;
+    }
+
+    return true;
+  });
+
+  render(list);
+}
+
+function render(list) {
   const container = document.getElementById("hackathonList");
+  const empty = document.getElementById("emptyState");
+  const count = document.getElementById("countText");
+
   container.innerHTML = "";
+  count.textContent = `Showing ${list.length} hackathons`;
+
+  if (list.length === 0) {
+    empty.classList.remove("hidden");
+    return;
+  }
+
+  empty.classList.add("hidden");
 
   list.forEach(h => {
-    const isNew = isWithinLast24Hours(h.uploaded_at);
-
     const card = document.createElement("div");
-    card.className =
-      "bg-white rounded-xl shadow-md hover:shadow-lg transition p-5 flex flex-col justify-between";
+    card.className = "bg-white border rounded-xl p-4 shadow-sm";
 
     card.innerHTML = `
-      <div>
-        <div class="flex justify-between items-start">
-          <h3 class="text-lg font-semibold">${h.name}</h3>
-          ${
-            isNew
-              ? `<span class="text-xs bg-green-100 text-green-700 px-2 py-1 rounded-full">NEW</span>`
-              : ""
-          }
-        </div>
-
-        <p class="mt-2 text-sm text-gray-600">📍 ${h.location} • ${h.mode}</p>
-        <p class="mt-1 text-sm text-gray-600">🎓 ${h.college || "Open / Multiple Colleges"}</p>
-        <p class="mt-1 text-sm text-gray-600">📅 ${h.start_date} → ${h.end_date}</p>
-        <p class="mt-1 text-xs text-gray-400">Posted: ${new Date(h.uploaded_at).toLocaleString()}</p>
+      <div class="flex justify-between">
+        <h3 class="font-semibold">${h.name}</h3>
+        ${
+          isWithin24h(h.uploaded_at)
+            ? `<span class="text-xs bg-emerald-100 text-emerald-700 px-2 py-1 rounded-full">NEW</span>`
+            : ""
+        }
       </div>
-
+      <p class="text-sm text-gray-600 mt-1">
+        🎓 ${h.college || "Open / External"}
+      </p>
+      <p class="text-sm text-gray-600">
+        📅 ${h.start_date} → ${h.end_date}
+      </p>
       <a href="${h.source_url}" target="_blank"
-         class="mt-4 text-center bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-lg text-sm">
-        View on ${h.source}
+         class="inline-block mt-3 text-sm text-emerald-600 font-medium">
+        View on ${h.source} →
       </a>
     `;
 
@@ -70,44 +101,13 @@ function renderHackathons(list) {
   });
 }
 
-// ===============================
-// Date Filters
-// ===============================
-function filterByRange(type) {
-  const now = new Date();
-
-  if (type === "month") {
-    currentFiltered = allHackathons.filter(h => {
-      const d = new Date(h.start_date);
-      return d.getMonth() === now.getMonth() && d.getFullYear() === now.getFullYear();
-    });
-  } else if (type === "2months") {
-    const future = new Date();
-    future.setMonth(future.getMonth() + 2);
-    currentFiltered = allHackathons.filter(h => {
-      const d = new Date(h.start_date);
-      return d >= now && d <= future;
-    });
-  } else {
-    currentFiltered = allHackathons;
-  }
-
-  renderHackathons(currentFiltered);
+function resetFilters() {
+  document.getElementById("searchInput").value = "";
+  document.getElementById("dateFilter").value = "1m";
+  document.getElementById("sourceFilter").value = "all";
+  document.getElementById("collegeFilter").value = "all";
+  document.getElementById("statusFilter").value = "all";
+  applyFilters();
 }
 
-// ===============================
-// College Search
-// ===============================
-function filterByCollege() {
-  const query = document.getElementById("collegeSearch").value.toLowerCase();
-
-  const filtered = currentFiltered.filter(h => {
-    if (!h.college) return true;
-    return h.college.toLowerCase().includes(query) || h.college.toLowerCase().includes("open");
-  });
-
-  renderHackathons(filtered);
-}
-
-// ===============================
 loadHackathons();

@@ -5,6 +5,10 @@ on:
     - cron: "0 */3 * * *"
   workflow_dispatch:
 
+# 🔐 THIS FIXES THE 403 PERMISSION ERROR
+permissions:
+  contents: write
+
 jobs:
   ingest:
     runs-on: ubuntu-latest

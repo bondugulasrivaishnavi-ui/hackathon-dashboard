@@ -367,5 +367,14 @@
     "location": "offline",
     "mode": "Online",
     "end_date": "2026-02-14T13:00:00+05:30"
+  },
+  {
+    "id": "unstop_1626039",
+    "name": "The Big Bang Build Challenge 2.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "location": "online",
+    "mode": "Online",
+    "end_date": "2026-01-25T23:59:00+05:30"
   }
 ]

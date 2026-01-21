@@ -1,12 +1,11 @@
 const fs = require("fs");
-const fetch = require("node-fetch");
 
 const OUTPUT = "data/hackathons.json";
 
-// fetch multiple pages from Unstop
+/* ---------------- UNSTOP ---------------- */
 async function fetchUnstop() {
   const results = [];
-  const MAX_PAGES = 6; // covers ~150+ hackathons
+  const MAX_PAGES = 8;
 
   for (let page = 1; page <= MAX_PAGES; page++) {
     const url = `https://unstop.com/api/public/opportunity/search?page=${page}&type=hackathons`;
@@ -28,24 +27,86 @@ async function fetchUnstop() {
           college: h.organiser_name || "",
         });
       }
-
     } catch (e) {
-      console.error("Unstop page failed:", page);
+      console.error("Unstop failed page:", page);
     }
   }
 
   return results;
 }
 
+/* ---------------- DEVFOLIO ---------------- */
+async function fetchDevfolio() {
+  const results = [];
+  const url = "https://devfolio.co/api/hackathons";
+
+  try {
+    const res = await fetch(url);
+    const json = await res.json();
+
+    for (const h of json.hackathons || []) {
+      results.push({
+        name: h.name,
+        source: "Devfolio",
+        source_url: `https://devfolio.co/hackathons/${h.slug}`,
+        start_date: h.starts_at,
+        end_date: h.ends_at,
+        location: h.location || "",
+        college: h.organizer_name || "",
+      });
+    }
+  } catch (e) {
+    console.error("Devfolio failed");
+  }
+
+  return results;
+}
+
+/* ---------------- HACKEREARTH ---------------- */
+async function fetchHackerEarth() {
+  const results = [];
+  const url = "https://www.hackerearth.com/challenges/hackathon/";
+
+  try {
+    const res = await fetch(url);
+    const html = await res.text();
+
+    const regex = /challenge-card-modern.*?href="(.*?)".*?challenge-name.*?>(.*?)</gs;
+    let match;
+
+    while ((match = regex.exec(html)) !== null) {
+      results.push({
+        name: match[2].trim(),
+        source: "HackerEarth",
+        source_url: `https://www.hackerearth.com${match[1]}`,
+        start_date: "",
+        end_date: "",
+        location: "",
+        college: "",
+      });
+    }
+  } catch (e) {
+    console.error("HackerEarth failed");
+  }
+
+  return results;
+}
+
+/* ---------------- MAIN ---------------- */
 async function main() {
-  console.log("Ingestion started…");
+  console.log("Starting full ingestion…");
 
   const unstop = await fetchUnstop();
+  const devfolio = await fetchDevfolio();
+  const hackerearth = await fetchHackerEarth();
 
-  // deduplicate by name
+  const combined = [...unstop, ...devfolio, ...hackerearth];
+
+  // Deduplicate
   const map = {};
-  for (const h of unstop) {
-    map[h.name] = h;
+  for (const h of combined) {
+    const key = `${h.name}-${h.source}`;
+    map[key] = h;
   }
 
   const finalData = Object.values(map);

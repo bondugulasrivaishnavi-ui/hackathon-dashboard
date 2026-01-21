@@ -1,106 +1,57 @@
-/**
- * AI-assisted ingestion for Layer 2 & Layer 3
- * FINAL FAIL-SAFE VERSION (AI can NEVER break pipeline)
- */
-
 const fs = require("fs");
-const path = require("path");
+const fetch = require("node-fetch");
 
-const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
-const DATA_PATH = path.join(process.cwd(), "data/hackathons.json");
+const OUTPUT = "data/hackathons.json";
 
-function loadDB() {
-  if (!fs.existsSync(DATA_PATH)) return [];
-  try {
-    return JSON.parse(fs.readFileSync(DATA_PATH, "utf-8"));
-  } catch {
-    return [];
-  }
-}
+// fetch multiple pages from Unstop
+async function fetchUnstop() {
+  const results = [];
+  const MAX_PAGES = 6; // covers ~150+ hackathons
 
-function saveDB(data) {
-  fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 2));
-}
+  for (let page = 1; page <= MAX_PAGES; page++) {
+    const url = `https://unstop.com/api/public/opportunity/search?page=${page}&type=hackathons`;
 
-async function safeAIExtract(rawText) {
-  if (!OPENAI_API_KEY) {
-    console.log("⚠️ OPENAI_API_KEY missing — skipping AI");
-    return null;
-  }
+    try {
+      const res = await fetch(url);
+      const json = await res.json();
 
-  try {
-    const prompt =
-      "Extract hackathon details and return ONLY JSON:\n" +
-      '{ "name":"", "college":"", "location":"", "start_date":"", "end_date":"", "mode":"Online | Offline", "confidence":"high | medium | low" }\n\n' +
-      rawText;
+      if (!json?.data?.data) break;
 
-    const res = await fetch("https://api.openai.com/v1/chat/completions", {
-      method: "POST",
-      headers: {
-        "Authorization": "Bearer " + OPENAI_API_KEY,
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        model: "gpt-4o-mini",
-        messages: [{ role: "user", content: prompt }],
-        temperature: 0
-      })
-    });
+      for (const h of json.data.data) {
+        results.push({
+          name: h.title,
+          source: "Unstop",
+          source_url: `https://unstop.com/${h.slug}`,
+          start_date: h.start_date,
+          end_date: h.end_date,
+          location: h.location || "",
+          college: h.organiser_name || "",
+        });
+      }
 
-    const data = await res.json();
-    if (!data?.choices?.[0]?.message?.content) return null;
-
-    return JSON.parse(data.choices[0].message.content);
-  } catch {
-    return null;
-  }
-}
-
-/* PLACEHOLDER RAW INPUTS */
-const RAW_INPUTS = [
-  {
-    source: "CBIT Website",
-    source_type: "institutional",
-    raw_text: "CBIT Innovation Hackathon Feb 12 to Feb 14 Gandipet campus."
-  },
-  {
-    source: "Instagram Poster",
-    source_type: "community",
-    raw_text: "VNR CODEFEST Hackathon March 3 to 4 Offline."
-  }
-];
-
-async function run() {
-  console.log("🤖 AI ingestion started");
-
-  const db = loadDB();
-
-  for (const input of RAW_INPUTS) {
-    const extracted = await safeAIExtract(input.raw_text);
-
-    if (!extracted) {
-      console.log("⚠️ AI skipped invalid response");
-      continue;
+    } catch (e) {
+      console.error("Unstop page failed:", page);
     }
-
-    db.push({
-      id: "ai_" + Date.now() + "_" + Math.random().toString(36).slice(2),
-      name: extracted.name || "Unnamed Hackathon",
-      college: extracted.college || "Open",
-      location: extracted.location || "India",
-      start_date: extracted.start_date || "",
-      end_date: extracted.end_date || "",
-      mode: extracted.mode || "Offline",
-      source: input.source,
-      source_type: input.source_type,
-      confidence: extracted.confidence || "low",
-      uploaded_at: new Date().toISOString(),
-      source_url: ""
-    });
   }
 
-  saveDB(db);
-  console.log("✅ AI ingestion completed safely");
+  return results;
 }
 
-run();
+async function main() {
+  console.log("Ingestion started…");
+
+  const unstop = await fetchUnstop();
+
+  // deduplicate by name
+  const map = {};
+  for (const h of unstop) {
+    map[h.name] = h;
+  }
+
+  const finalData = Object.values(map);
+
+  fs.writeFileSync(OUTPUT, JSON.stringify(finalData, null, 2));
+  console.log(`Saved ${finalData.length} hackathons`);
+}
+
+main();

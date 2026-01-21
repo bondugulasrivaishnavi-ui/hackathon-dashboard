@@ -1,15 +1,12 @@
 let allHackathons = [];
 let showOnlyTS = false;
-let dateRange = 60;
 let sortDeadline = false;
 
-// Telangana + Major Colleges
+// Telangana + major colleges
 const TS_KEYWORDS = [
-  "bvr", "bvrit", "gokaraju", "griet", "cbit", "vnr", "kmit",
-  "cvr", "snist", "anurag", "vasavi", "ou", "osmania",
-  "jntu", "jntuh", "mallareddy", "malla reddy",
-  "cmr", "mgit", "vbit", "methodist",
-  "hyderabad", "telangana"
+  "bvrit", "bvr", "griet", "gokaraju", "cmr", "mallareddy", "malla reddy",
+  "cbit", "vnr", "kmit", "cvr", "snist", "anurag", "vasavi",
+  "osmania", "ou", "jntu", "jntuh", "hyderabad", "telangana"
 ];
 
 // ---------- Helpers ----------
@@ -18,6 +15,8 @@ function inferCollege(h) {
 
   if (t.includes("bvrit")) return "BVRIT Hyderabad";
   if (t.includes("gokaraju") || t.includes("griet")) return "GRIET Hyderabad";
+  if (t.includes("cmr")) return "CMR Group of Institutions";
+  if (t.includes("malla")) return "Malla Reddy Group";
   if (t.includes("cbit")) return "CBIT Hyderabad";
   if (t.includes("vnr")) return "VNR VJIET";
   if (t.includes("kmit")) return "KMIT Hyderabad";
@@ -25,8 +24,6 @@ function inferCollege(h) {
   if (t.includes("snist")) return "SNIST Hyderabad";
   if (t.includes("anurag")) return "Anurag University";
   if (t.includes("vasavi")) return "Vasavi College of Engineering";
-  if (t.includes("malla")) return "Malla Reddy Group";
-  if (t.includes("cmr")) return "CMR Group of Institutions";
 
   return h.college || "Open / External";
 }
@@ -43,14 +40,14 @@ function isTelangana(h) {
   return TS_KEYWORDS.some(k => text.includes(k));
 }
 
-function withinRange(h) {
+function withinRange(h, days) {
   const ref = h.start_date || h.end_date;
   if (!ref) return true;
 
   const diff =
     (new Date(ref) - new Date()) / (1000 * 60 * 60 * 24);
 
-  return diff >= 0 && diff <= dateRange;
+  return diff >= 0 && diff <= days;
 }
 
 function formatDate(d) {
@@ -62,83 +59,81 @@ function formatDate(d) {
   });
 }
 
+// 🔥 FINAL Unstop-safe link (never breaks)
 function safeLink(h) {
   if (!h.source_url) return "#";
-
   if (h.source_url.includes("unstop.com")) {
     return `https://unstop.com/search?query=${encodeURIComponent(h.name)}`;
   }
-
   return h.source_url;
-}
-
-
-function isFeatured(h) {
-  return isTelangana(h) && inferCollege(h) !== "Open / External";
 }
 
 // ---------- Load ----------
 async function loadHackathons() {
   const res = await fetch("data/hackathons.json");
   allHackathons = await res.json();
-  render();
+  document.getElementById("updatedAt").innerText =
+    "Last updated: " + new Date().toLocaleString("en-IN");
+  applyFilters();
 }
 
 // ---------- Render ----------
-function render() {
-  const container = document.getElementById("hackathonList");
-  container.innerHTML = "";
+function applyFilters() {
+  const listEl = document.getElementById("hackathonList");
+  listEl.innerHTML = "";
 
-  let list = allHackathons.filter(withinRange);
+  const search = document.getElementById("searchInput").value.toLowerCase();
+  const days = parseInt(document.getElementById("rangeSelect").value);
+
+  let list = allHackathons.filter(h => withinRange(h, days));
 
   if (showOnlyTS) list = list.filter(isTelangana);
-  if (sortDeadline) {
-    list.sort((a, b) => new Date(a.end_date || 0) - new Date(b.end_date || 0));
+
+  if (search) {
+    list = list.filter(h =>
+      h.name.toLowerCase().includes(search) ||
+      inferCollege(h).toLowerCase().includes(search)
+    );
   }
 
-  // Featured on top
-  list.sort((a, b) => isFeatured(b) - isFeatured(a));
+  if (sortDeadline) {
+    list.sort((a, b) =>
+      new Date(a.end_date || 0) - new Date(b.end_date || 0)
+    );
+  }
 
   document.getElementById("count").innerText =
     `Showing ${list.length} hackathons`;
 
   list.forEach(h => {
     const card = document.createElement("div");
-    card.className = "bg-white border rounded-xl p-4 shadow-sm hover:shadow-md transition";
+    card.className =
+      "bg-white border rounded-xl p-4 shadow-sm hover:shadow-md transition";
 
     card.innerHTML = `
-      <div class="flex justify-between items-start">
-        <h3 class="font-semibold text-lg">${h.name}</h3>
-        ${isFeatured(h) ? `<span class="text-xs bg-orange-500 text-white px-2 py-1 rounded">FEATURED</span>` : ""}
-      </div>
-
+      <h3 class="font-semibold text-lg">${h.name}</h3>
       <p class="text-sm text-gray-600 mt-1">🎓 ${inferCollege(h)}</p>
       <p class="text-sm text-gray-600">⏰ Deadline: ${formatDate(h.end_date)}</p>
-
       <a href="${safeLink(h)}" target="_blank"
         class="inline-block mt-3 px-4 py-2 bg-emerald-600 text-white rounded-lg text-sm">
-        Register / View Details →
+        ${h.source_url?.includes("unstop.com") ? "Search on Unstop →" : "View Details →"}
       </a>
     `;
-
-    container.appendChild(card);
+    listEl.appendChild(card);
   });
 }
 
 // ---------- Controls ----------
 function toggleTS() {
   showOnlyTS = !showOnlyTS;
-  render();
-}
-
-function setRange(days) {
-  dateRange = days;
-  render();
+  document.getElementById("tsBtn").classList.toggle("bg-emerald-600");
+  document.getElementById("tsBtn").classList.toggle("bg-gray-800");
+  applyFilters();
 }
 
 function sortByDeadline() {
   sortDeadline = !sortDeadline;
-  render();
+  applyFilters();
 }
 
 loadHackathons();

@@ -376,5 +376,14 @@
     "location": "online",
     "mode": "Online",
     "end_date": "2026-01-25T23:59:00+05:30"
+  },
+  {
+    "id": "unstop_1625735",
+    "name": "Elvion 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "location": "offline",
+    "mode": "Online",
+    "end_date": "2026-02-11T20:00:00+05:30"
   }
 ]

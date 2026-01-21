@@ -64,11 +64,14 @@ function formatDate(d) {
 
 function safeLink(h) {
   if (!h.source_url) return "#";
-  if (h.source && h.source.toLowerCase() === "unstop") {
+
+  if (h.source_url.includes("unstop.com")) {
     return `https://unstop.com/search?query=${encodeURIComponent(h.name)}`;
   }
+
   return h.source_url;
 }
+
 
 function isFeatured(h) {
   return isTelangana(h) && inferCollege(h) !== "Open / External";

@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,119 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Java Backend Developer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-02-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Shark Tank",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-01-28T23:59:30+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Adomania",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-02-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Academic Coordinator Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-02-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Artificial Intelligence & Machine Learning Workshop",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-11T00:00:00+05:30",
+    "end_date": "2026-02-08T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Store Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-02-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Finance Intership",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-02-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Digital Marketing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-23T00:00:00+05:30",
+    "end_date": "2026-02-06T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Recruitment Simulation | AnC | FTE",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T04:00:00+05:30",
+    "end_date": "2026-01-28T18:00:23+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Vriddhan 2026 - The Finance Case Study Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-02-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Open Frequencies",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-20T00:00:00+05:30",
+    "end_date": "2026-02-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "DEI  X VLABS Hackathon 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-02-08T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Agency Channel Manager – Life Insurance",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-02-07T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -229,15 +346,6 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-01-08T00:00:00+05:30",
-    "end_date": "2026-02-07T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
     "end_date": "2026-02-07T00:00:00+05:30",
     "location": "",
     "college": ""
@@ -1179,110 +1287,11 @@
     "college": ""
   },
   {
-    "name": "E-Commerce Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Performance Marketing Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Front End Developer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Case-A-Thon",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-07T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Bluff Central: The Bluff Making Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-05T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Graphic Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Relationship Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T14:50:03+05:30",
-    "end_date": "2026-01-30T14:50:03+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Visual & Presentation Design Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Backend Developer Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Program Manager - Jobs & Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2025-12-11T00:00:00+05:30",
-    "end_date": "2026-02-28T18:21:52+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

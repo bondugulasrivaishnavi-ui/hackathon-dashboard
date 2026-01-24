@@ -27,6 +27,51 @@
     "college": ""
   },
   {
+    "name": "Web Development Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T00:00:00+05:30",
+    "end_date": "2026-02-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "MAuctionRT 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-24T18:30:00+05:30",
+    "end_date": "2026-01-29T18:29:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Blueprint",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-17T23:59:00+05:30",
+    "end_date": "2026-02-07T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Frame a Fusion",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-15T23:59:00+05:30",
+    "end_date": "2026-02-06T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Comic Collide",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-14T23:59:00+05:30",
+    "end_date": "2026-02-06T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Integration Software Engineer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1238,60 +1283,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-01-23T00:00:00+05:30",
     "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Marketing Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Customer Support Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Book Publication & Research Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Test Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Software Developer 1",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-23T00:00:00+05:30",
-    "end_date": "2026-02-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

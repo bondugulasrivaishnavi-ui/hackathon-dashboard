@@ -1,19 +1,19 @@
 [
   {
-    "name": "Canva Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2023-02-27T00:00:00+05:30",
     "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -27,7 +27,70 @@
     "college": ""
   },
   {
-    "name": "The Tweet Wars: Where Everyone Plays their Trump card.",
+    "name": "Business Development Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-29T00:00:00+05:30",
+    "end_date": "2026-02-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "SEO and Content Trainee",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-27T00:00:00+05:30",
+    "end_date": "2026-02-10T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Virtual Assistant",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-30T00:00:00+05:30",
+    "end_date": "2026-02-14T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Hive Strategy Conclave",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-30T12:00:00+05:30",
+    "end_date": "2026-02-21T16:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "InnovGenius 2026: Hackathon",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-28T00:00:00+05:30",
+    "end_date": "2026-02-20T18:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Youth Parliament",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-26T00:00:00+05:30",
+    "end_date": "2026-02-06T00:36:46+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Just in Case: The Next Big Thing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-29T00:00:00+05:30",
+    "end_date": "2026-02-15T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Tweet Wars: Where Everyone Plays their 'Trump Card'",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-01-30T00:20:00+05:30",
@@ -40,7 +103,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-01-29T00:00:00+05:30",
-    "end_date": "2026-02-05T23:59:00+05:30",
+    "end_date": "2026-03-05T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -67,16 +130,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-01-30T00:00:00+05:30",
-    "end_date": "2026-02-14T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "The Hive Strategy Conclave",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-30T12:00:00+05:30",
-    "end_date": "2026-02-18T23:59:00+05:30",
+    "end_date": "2026-02-26T17:30:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1134,15 +1188,6 @@
     "college": ""
   },
   {
-    "name": "Business Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-29T00:00:00+05:30",
-    "end_date": "2026-02-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Dan Brown Quiz",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1269,56 +1314,11 @@
     "college": ""
   },
   {
-    "name": "Robowars",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-29T00:00:00+05:30",
-    "end_date": "2026-03-15T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Global Policy Pit: An International Policy Simulation",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-29T23:59:00+05:30",
-    "end_date": "2026-02-15T12:30:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Prudentia",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-29T00:00:00+05:30",
-    "end_date": "2026-02-05T17:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Inside Sales Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-17T00:00:00+05:30",
-    "end_date": "2026-02-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "FIFA 26",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-12T17:25:27+05:30",
-    "end_date": "2026-02-03T04:35:17+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "3D Visualizer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-16T00:00:00+05:30",
-    "end_date": "2026-02-12T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

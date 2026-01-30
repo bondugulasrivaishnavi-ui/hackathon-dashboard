@@ -1,14 +1,5 @@
 [
   {
-    "name": "Canva Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +9,83 @@
     "college": ""
   },
   {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2023-02-27T00:00:00+05:30",
     "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Vision 2.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-31T00:00:00+05:30",
+    "end_date": "2026-02-05T21:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "DataSights 7.0 - National Analytics Case Study Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-30T18:30:30+05:30",
+    "end_date": "2026-02-23T22:30:47+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Insurex",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-02T00:00:00+05:30",
+    "end_date": "2026-02-15T01:05:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Consulting Analyst",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-11T00:00:00+05:30",
+    "end_date": "2026-02-10T00:36:51+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Marketing Editor",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-18T00:00:00+05:30",
+    "end_date": "2026-02-01T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Technical Support Specialist L1",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-19T00:00:00+05:30",
+    "end_date": "2026-02-02T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Software Engineer – Backend",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-19T00:00:00+05:30",
+    "end_date": "2026-02-02T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -59,15 +122,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-01-18T00:00:00+05:30",
     "end_date": "2026-02-01T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "B-Plan Competition [The Visionary's Arena]",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-30T00:00:00+05:30",
-    "end_date": "2026-02-10T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1328,42 +1382,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-01-29T00:00:00+05:30",
     "end_date": "2026-02-25T14:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Analyst",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-17T00:00:00+05:30",
-    "end_date": "2026-01-31T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-30T00:00:00+05:30",
-    "end_date": "2026-02-13T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HR Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-17T00:00:00+05:30",
-    "end_date": "2026-01-31T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Campus Brand Ambassador Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-30T16:06:16+05:30",
-    "end_date": "2026-02-05T16:47:09+05:30",
     "location": "",
     "college": ""
   }

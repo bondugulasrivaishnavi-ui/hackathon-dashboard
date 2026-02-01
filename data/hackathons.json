@@ -1,5 +1,14 @@
 [
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -14,15 +23,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-08-27T00:00:00+05:30",
     "end_date": "2024-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Social Media Marketing",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -382,7 +382,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-01-31T00:00:00+05:30",
-    "end_date": "2026-02-27T16:30:00+05:30",
+    "end_date": "2026-02-28T03:39:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1272,7 +1272,7 @@
     "name": "Insurex",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-02T00:00:00+05:30",
+    "start_date": "2026-02-02T10:00:00+05:30",
     "end_date": "2026-02-27T17:00:00+05:30",
     "location": "",
     "college": ""

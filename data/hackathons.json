@@ -9,20 +9,20 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-08-27T00:00:00+05:30",
     "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -360,7 +360,7 @@
     "college": ""
   },
   {
-    "name": "Bid Wars",
+    "name": "Bid Wars (Virtualities 2026)",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-07T09:30:00+05:30",
@@ -387,11 +387,11 @@
     "college": ""
   },
   {
-    "name": "Chakravyuh",
+    "name": "Chakravyuh (Virtualities 2026)",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-07T10:30:00+05:30",
-    "end_date": "2026-02-25T13:29:00+05:30",
+    "start_date": "2026-02-07T04:30:00+05:30",
+    "end_date": "2026-02-24T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1089,10 +1089,10 @@
     "college": ""
   },
   {
-    "name": "The Great Indian Parliamentary Debate",
+    "name": "The Great Indian Parliamentary Debate (Virtualities 2026)",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-07T07:30:00+05:30",
+    "start_date": "2026-02-07T18:30:00+05:30",
     "end_date": "2026-02-25T13:29:00+05:30",
     "location": "",
     "college": ""

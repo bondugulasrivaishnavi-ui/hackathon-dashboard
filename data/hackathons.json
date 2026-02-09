@@ -1,10 +1,10 @@
 [
   {
-    "name": "Hands on training on x ray diffractometer",
+    "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -18,11 +18,11 @@
     "college": ""
   },
   {
-    "name": "Canva Designer",
+    "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -216,7 +216,7 @@
     "college": ""
   },
   {
-    "name": "Sansad 2.O",
+    "name": "Sansad 2.O - National Youth Indian Parliament",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-09T15:00:00+05:30",
@@ -1409,15 +1409,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-07T00:00:00+05:30",
     "end_date": "2026-02-21T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

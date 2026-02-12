@@ -27,6 +27,51 @@
     "college": ""
   },
   {
+    "name": "Futsal Tournament",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-13T00:00:00+05:30",
+    "end_date": "2026-03-11T23:59:08+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "PolicyPreneur: The Ultimate B-Plan Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-12T00:00:00+05:30",
+    "end_date": "2026-02-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "CodeQuest: Online Treasure Hunt",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-13T00:15:20+05:30",
+    "end_date": "2026-02-22T00:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Markovista: Nationwide Marketing Case Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-12T20:00:00+05:30",
+    "end_date": "2026-03-23T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Chunauti 5.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-12T23:30:38+05:30",
+    "end_date": "2026-02-22T17:00:44+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "CaseVerse",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -688,7 +733,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-12T00:00:00+05:30",
-    "end_date": "2026-03-12T23:59:00+05:30",
+    "end_date": "2026-03-12T23:59:36+05:30",
     "location": "",
     "college": ""
   },
@@ -1341,47 +1386,11 @@
     "college": ""
   },
   {
-    "name": "Meraki 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-11T00:00:00+05:30",
-    "end_date": "2026-02-25T18:29:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "CFA Decoded Webinar",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-12T14:00:00+05:30",
-    "end_date": "2026-02-15T11:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Playwright with AI Agents Workshop",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-12T14:00:00+05:30",
-    "end_date": "2026-02-14T08:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Hacknova - 12 Hour National Level Hybrid Hackathon",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-11T00:00:00+05:30",
-    "end_date": "2026-02-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Growth Hacker Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-12T00:00:00+05:30",
-    "end_date": "2026-02-26T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

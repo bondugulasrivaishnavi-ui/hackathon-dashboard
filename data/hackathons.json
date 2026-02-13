@@ -1,19 +1,19 @@
 [
   {
-    "name": "Social Media Marketing",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-11-01T00:00:00+05:30",
     "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1044,15 +1044,6 @@
     "college": ""
   },
   {
-    "name": "PARADOX HACKS powered by MASTERS UNION",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-18T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Senior Executive - PMO",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1373,6 +1364,15 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-13T00:00:00+05:30",
     "end_date": "2026-02-24T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "PLUTONIUM 2026 – National Level Hardware Hackathon (MESA × ECSA)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-16T13:00:00+05:30",
+    "end_date": "2026-03-29T14:09:00+05:30",
     "location": "",
     "college": ""
   },

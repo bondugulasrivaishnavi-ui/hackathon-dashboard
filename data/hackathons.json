@@ -1,5 +1,14 @@
 [
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,110 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "10th National Techno Exhibition 2026",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-03-05T22:21:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Plan Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-25T15:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales Associate",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Operations Internship – Multilingual - Tamil/Telugu/Kannada + Hindi",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Campus Ambassador For Psychology Student",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Student Acquisition Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "NextGen Hackathon - Pragyan 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-14T08:29:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Community Management Intenship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Mehfil-e-Taash",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-03-06T19:50:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Campus Ambassador",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Marketing / Sales Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "TechVortex 3.0 - International Project Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-15T00:00:00+05:30",
+    "end_date": "2026-03-28T21:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -192,8 +300,8 @@
     "name": "Brand Odyssey: The Cinematic Marketing Case Competition",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-14T20:00:00+05:30",
-    "end_date": "2026-03-17T00:01:00+05:30",
+    "start_date": "2026-02-14T19:00:00+05:30",
+    "end_date": "2026-03-17T17:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -516,8 +624,8 @@
     "name": "Social Media Marketing Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-22T00:00:00+05:30",
+    "start_date": "2026-02-14T00:00:00+05:30",
+    "end_date": "2026-02-28T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -634,7 +742,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-14T00:00:00+05:30",
-    "end_date": "2026-02-21T23:59:00+05:30",
+    "end_date": "2026-03-03T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1129,7 +1237,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-14T00:00:00+05:30",
-    "end_date": "2026-02-20T00:00:00+05:30",
+    "end_date": "2026-02-22T20:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1278,101 +1386,11 @@
     "college": ""
   },
   {
-    "name": "Street Dance - Break a Leg",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "War of DJs",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Duo Drama - Double Take",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Vaayu Gameshow - The Great Indian Gameshow",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "WhatsApp & Digital Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-12T00:00:00+05:30",
-    "end_date": "2026-02-26T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Mr & Miss Vaayu",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Artopia 2.0: Prompt to Picture",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-12T00:00:00+05:30",
-    "end_date": "2026-02-20T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Group Drama - The Climax",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Sharkpenure 2.0",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-24T23:57:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Solo Drama - Monologue Magic",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Obstacle Course - Run. React. Survive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-25T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

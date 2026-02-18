@@ -1152,20 +1152,20 @@
     "college": ""
   },
   {
-    "name": "Ad Wars - Grand Storyteller",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-01-22T18:00:00+05:30",
-    "end_date": "2026-03-14T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Tool Developer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-15T00:00:00+05:30",
     "end_date": "2026-03-01T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Ad Wars - Grand Storyteller",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-22T18:00:00+05:30",
+    "end_date": "2026-03-14T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1364,15 +1364,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-17T13:00:00+05:30",
     "end_date": "2026-03-01T12:55:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

@@ -1,14 +1,5 @@
 [
   {
-    "name": "Social Media Marketing",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +9,74 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-08-27T00:00:00+05:30",
     "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales Operations Apprenticeship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-21T00:00:00+05:30",
+    "end_date": "2026-03-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Enact the Empire | Impreneurs, the Entrepreneurship Cell at JDMC",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-21T00:00:00+05:30",
+    "end_date": "2026-02-23T00:00:23+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Recruitment Marketing & Branding Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-21T00:00:00+05:30",
+    "end_date": "2026-03-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Virtual Webinar on April 10",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-11T12:00:00+05:30",
+    "end_date": "2026-04-09T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Customer Service Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-21T00:00:00+05:30",
+    "end_date": "2026-03-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Service Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-21T00:00:00+05:30",
+    "end_date": "2026-03-07T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -90,7 +144,7 @@
     "college": ""
   },
   {
-    "name": "Case Marathon 4.0",
+    "name": "Case Marathon 4.0 (Registrations Accepted Across the Globe)",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-21T00:00:00+05:30",
@@ -220,7 +274,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-21T01:00:00+05:30",
-    "end_date": "2026-05-20T17:00:00+05:30",
+    "end_date": "2026-03-20T17:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -477,7 +531,7 @@
     "college": ""
   },
   {
-    "name": "BuildSprint",
+    "name": "BuildSprint | SDG Innovation Challenge",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-20T00:00:00+05:30",
@@ -705,8 +759,8 @@
     "name": "Business Development Executive",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-10T00:00:00+05:30",
-    "end_date": "2026-02-24T00:00:00+05:30",
+    "start_date": "2026-02-20T00:00:00+05:30",
+    "end_date": "2026-03-06T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1003,7 +1057,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-04T17:00:00+05:30",
+    "end_date": "2026-03-18T17:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1346,51 +1400,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-15T00:00:00+05:30",
     "end_date": "2026-03-01T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Full Stack Developer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Network Solutions Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-15T00:00:00+05:30",
-    "end_date": "2026-03-01T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Campaign Management Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T10:10:22+05:30",
-    "end_date": "2026-03-06T09:32:50+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Marketing Internship (Female)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Territory Management Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-13T00:00:00+05:30",
-    "end_date": "2026-02-27T00:00:00+05:30",
     "location": "",
     "college": ""
   }

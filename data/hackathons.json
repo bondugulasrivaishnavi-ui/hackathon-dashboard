@@ -27,6 +27,150 @@
     "college": ""
   },
   {
+    "name": "Pitch Storm",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-19T00:00:00+05:30",
+    "end_date": "2026-03-08T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Structural Resilience Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-18T00:00:00+05:30",
+    "end_date": "2026-03-05T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "CodeClash",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T00:00:00+05:30",
+    "end_date": "2026-03-08T22:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Content Writing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T00:00:00+05:30",
+    "end_date": "2026-03-08T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Bidding War - IPL Auction",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T13:10:00+05:30",
+    "end_date": "2026-02-27T16:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "M&A Stratège",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-21T00:00:00+05:30",
+    "end_date": "2026-03-01T13:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Treasure Hunt",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T00:00:00+05:30",
+    "end_date": "2026-02-28T13:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Ency Clue Pedia",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T00:00:00+05:30",
+    "end_date": "2026-02-24T08:10:22+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "WiCSCon 2026 HackHerThon: Women in Tech Hackathon 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T00:00:00+05:30",
+    "end_date": "2026-03-22T17:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Policy Colloquium",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-18T00:00:00+05:30",
+    "end_date": "2026-03-16T15:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Full Stack Developer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-21T00:00:00+05:30",
+    "end_date": "2026-03-08T12:45:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Puzzlify",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T00:00:00+05:30",
+    "end_date": "2026-03-01T16:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales & Marketing Specialist",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T00:00:00+05:30",
+    "end_date": "2026-03-08T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "HVAC Blitz",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T12:00:00+05:30",
+    "end_date": "2026-02-28T18:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Escoventure 2026 – Business Pitching Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-21T00:00:00+05:30",
+    "end_date": "2026-02-28T09:30:16+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "CodeYog",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T12:00:00+05:30",
+    "end_date": "2026-03-01T14:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Inter College debate competition",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -954,15 +1098,6 @@
     "college": ""
   },
   {
-    "name": "Full Stack Developer Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-21T00:00:00+05:30",
-    "end_date": "2026-03-08T12:45:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Starry Night - Ankit Tiwari",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1215,146 +1350,11 @@
     "college": ""
   },
   {
-    "name": "Hysteresis: The House Of Falling Cards",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-21T00:00:00+05:30",
-    "end_date": "2026-03-19T17:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Ops-Quiz",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-02-27T22:15:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Web Craft",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-18T00:00:00+05:30",
-    "end_date": "2026-03-07T16:30:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Setcode",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-18T00:00:00+05:30",
-    "end_date": "2026-03-04T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Race To Innovate 2.0",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-12T00:00:00+05:30",
-    "end_date": "2026-02-27T19:16:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Automation Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-18T00:00:00+05:30",
-    "end_date": "2026-03-04T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "CA Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-19T00:00:00+05:30",
-    "end_date": "2026-03-05T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Judge The Book By Its Cover",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-30T10:15:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Principal System Architect",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Document Controller I",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "PromptForge",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-02-26T15:30:36+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Design Engineer I",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Executive Assistant",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Humanistiq  Seeks Your Perspective 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-21T03:30:42+05:30",
-    "end_date": "2026-03-20T12:00:09+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Full Stack Development: From Interface to Infrastructure Webinar",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-07T17:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Associate Test Automation Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-06T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

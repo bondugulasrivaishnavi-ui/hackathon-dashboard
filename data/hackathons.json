@@ -27,6 +27,24 @@
     "college": ""
   },
   {
+    "name": "Founder’s Office Associate",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T00:00:00+05:30",
+    "end_date": "2026-03-08T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Founder’s Office Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-22T00:00:00+05:30",
+    "end_date": "2026-03-08T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "TechnoCP",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1337,33 +1355,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-20T00:00:00+05:30",
     "end_date": "2026-03-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Process Automation and Web Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-03-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Debug Arena",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-20T00:00:00+05:30",
-    "end_date": "2026-02-27T12:30:50+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

@@ -27,11 +27,47 @@
     "college": ""
   },
   {
-    "name": "Sumo Fight",
+    "name": "Research & Development Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-23T00:00:00+05:30",
+    "end_date": "2026-03-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Inside the Mind of a Winning Case Candidate",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-23T00:00:00+05:30",
+    "end_date": "2026-02-25T18:00:28+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Tally Prime",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-23T18:00:00+05:30",
+    "end_date": "2026-03-20T18:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Perfect Hire",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-23T00:00:00+05:30",
+    "end_date": "2026-03-08T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Dohyo Showdown — Sumo Fight",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-18T00:00:00+05:30",
-    "end_date": "2026-03-18T23:59:39+05:30",
+    "end_date": "2026-03-23T11:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -72,7 +108,7 @@
     "college": ""
   },
   {
-    "name": "Gravity Algogems",
+    "name": "0 Gravity Algogems",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-20T20:25:00+05:30",
@@ -189,7 +225,7 @@
     "college": ""
   },
   {
-    "name": "Mecha Ragnarok",
+    "name": "Mecha Ragnarok — Robo War",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-18T00:00:00+05:30",
@@ -297,7 +333,7 @@
     "college": ""
   },
   {
-    "name": "Thalamus",
+    "name": "THALAMUS",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-23T00:00:00+05:30",
@@ -346,7 +382,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-02-18T00:00:00+05:30",
-    "end_date": "2026-03-16T23:59:37+05:30",
+    "end_date": "2026-03-22T17:30:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1332,38 +1368,11 @@
     "college": ""
   },
   {
-    "name": "Copy Writer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-23T00:00:00+05:30",
-    "end_date": "2026-03-09T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Software Automation Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-22T00:00:00+05:30",
-    "end_date": "2026-03-08T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Software Development Engineer II",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-22T00:00:00+05:30",
-    "end_date": "2026-03-08T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Political Event",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-02-23T00:00:00+05:30",
-    "end_date": "2026-03-25T17:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/shikshalokam-2/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

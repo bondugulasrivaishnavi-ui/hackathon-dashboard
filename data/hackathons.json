@@ -724,7 +724,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-03T16:30:00+05:30",
-    "end_date": "2026-03-15T11:00:00+05:30",
+    "end_date": "2026-03-15T12:05:31+05:30",
     "location": "",
     "college": ""
   },
@@ -1346,6 +1346,15 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-05T00:00:00+05:30",
     "end_date": "2026-03-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/elastic-blogathon-2026/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

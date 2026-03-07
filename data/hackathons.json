@@ -27,6 +27,69 @@
     "college": ""
   },
   {
+    "name": "Re-Brand: The Revival Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-06T00:00:00+05:30",
+    "end_date": "2026-03-24T16:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Auristra'26",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-07T00:00:00+05:30",
+    "end_date": "2026-03-17T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Quizzeria: National Level Quiz Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-07T00:00:00+05:30",
+    "end_date": "2026-03-13T21:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "War-Zone (Valorant) – Edesia E-Sports Tournament",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-07T00:00:00+05:30",
+    "end_date": "2026-03-26T20:05:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Capture: National Level Photography Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-07T00:00:00+05:30",
+    "end_date": "2026-03-14T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Hack Among Us",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-07T12:00:00+05:30",
+    "end_date": "2026-03-19T19:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Art Duet",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-07T00:00:00+05:30",
+    "end_date": "2026-03-26T20:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Photography",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -877,7 +940,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-06T00:00:00+05:30",
-    "end_date": "2026-03-21T00:00:00+05:30",
+    "end_date": "2026-03-20T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1350,56 +1413,11 @@
     "college": ""
   },
   {
-    "name": "Site Reliability Engineer 2",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-05T00:00:00+05:30",
-    "end_date": "2026-03-19T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Copy Writer Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-05T00:00:00+05:30",
-    "end_date": "2026-03-19T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Leadership Development Program Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-01T00:00:00+05:30",
-    "end_date": "2026-03-15T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Real Estate Sales Consultant",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-06T00:00:00+05:30",
-    "end_date": "2026-03-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Financial Services Consultant",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-05T00:00:00+05:30",
-    "end_date": "2026-03-19T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-05T00:00:00+05:30",
-    "end_date": "2026-03-19T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/elastic-blogathon-2026/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

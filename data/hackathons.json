@@ -1,5 +1,14 @@
 [
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,164 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Business Management Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Field Sales Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "IT Recruiter",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Skillsvest International Student Funding Fellowship - 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-09T21:00:00+05:30",
+    "end_date": "2026-04-08T08:20:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Battle of Bands",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-18T17:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Research & Data Verification Internship 2.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-03T00:00:00+05:30",
+    "end_date": "2026-03-17T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Content Creation / Writer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "La Casa De Code",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-12T00:00:00+05:30",
+    "end_date": "2026-04-17T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Symbiotic Search",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-07T00:00:00+05:30",
+    "end_date": "2026-03-22T13:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Executive (BDE)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Future Front 2026 – National Level Symposium on Emerging Computing Technologies",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Quiz Quiz Hota Hai",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-03T00:00:00+05:30",
+    "end_date": "2026-03-14T15:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Cosmix",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-28T08:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T16:43:32+05:30",
+    "end_date": "2026-03-18T23:59:26+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Human Resources Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Beatbox Blitzkreig",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-18T17:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-03-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "DevGathering 2k26",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-11T00:00:00+05:30",
+    "end_date": "2026-04-11T18:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -405,15 +567,6 @@
     "college": ""
   },
   {
-    "name": "Future Front 2026 – National Level Symposium on Emerging Computing Technologies",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-11T00:00:00+05:30",
-    "end_date": "2026-03-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Global Prompt Engineering Challenge",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -450,15 +603,6 @@
     "college": ""
   },
   {
-    "name": "Human Resources Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-11T00:00:00+05:30",
-    "end_date": "2026-03-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "VMI Analyst",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -482,15 +626,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-10T00:00:00+05:30",
     "end_date": "2026-03-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-11T16:43:32+05:30",
-    "end_date": "2026-03-18T23:59:26+05:30",
     "location": "",
     "college": ""
   },
@@ -550,15 +685,6 @@
   },
   {
     "name": "Finance Analyst",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-11T00:00:00+05:30",
-    "end_date": "2026-03-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Executive (BDE)",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-11T00:00:00+05:30",
@@ -648,7 +774,7 @@
     "college": ""
   },
   {
-    "name": "New-Age Technologies & Blockchain Session with Bitget",
+    "name": "Blockchain for Youth",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-10T00:00:00+05:30",
@@ -774,7 +900,7 @@
     "college": ""
   },
   {
-    "name": "UI/UX Design Internship (apply at link in JD)",
+    "name": "UI/UX Design Internship (apply via link in JD)",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-11T00:00:00+05:30",
@@ -927,11 +1053,11 @@
     "college": ""
   },
   {
-    "name": "Bizmind's Transfer Market",
+    "name": "Bizmind's Transfer Market 2.0",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-11T00:00:00+05:30",
-    "end_date": "2026-03-17T23:59:00+05:30",
+    "end_date": "2026-03-23T14:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1260,146 +1386,11 @@
     "college": ""
   },
   {
-    "name": "Innovative Idea",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-07T00:00:00+05:30",
-    "end_date": "2026-03-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Founder's Office Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-10T00:00:00+05:30",
-    "end_date": "2026-03-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Model Expo",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-09T00:00:00+05:30",
-    "end_date": "2026-03-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Flavour of India",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-09T00:00:00+05:30",
-    "end_date": "2026-03-17T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Waste to Worth",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-09T00:00:00+05:30",
-    "end_date": "2026-03-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Garena Free Fire",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-09T00:00:00+05:30",
-    "end_date": "2026-03-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Artificial Intelligence Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-10T00:00:00+05:30",
-    "end_date": "2026-03-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Legal Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-10T00:00:00+05:30",
-    "end_date": "2026-03-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Bridge-O-Mania",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-09T00:00:00+05:30",
-    "end_date": "2026-03-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Consultant- Oracle",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-10T00:00:00+05:30",
-    "end_date": "2026-03-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Face Verse",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-09T00:00:00+05:30",
-    "end_date": "2026-03-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Code Crunch",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-09T00:00:00+05:30",
-    "end_date": "2026-03-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Research Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-10T00:00:00+05:30",
-    "end_date": "2026-03-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Slow-Rider Mania",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-09T00:00:00+05:30",
-    "end_date": "2026-03-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Procurement Analyst",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-10T00:00:00+05:30",
-    "end_date": "2026-03-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-11T00:00:00+05:30",
-    "end_date": "2026-03-25T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/elastic-blogathon-2026/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

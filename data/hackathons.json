@@ -1,14 +1,5 @@
 [
   {
-    "name": "Canva Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -27,6 +18,87 @@
     "college": ""
   },
   {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Dance Your Style",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-13T00:00:00+05:30",
+    "end_date": "2026-03-31T18:06:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Volleyball - Men",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-13T00:00:00+05:30",
+    "end_date": "2026-03-31T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Social Media & Growth Marketing Internship for an AI Startup",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-14T00:00:00+05:30",
+    "end_date": "2026-03-29T20:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Basketball - Women",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-13T00:00:00+05:30",
+    "end_date": "2026-03-31T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Basketball - Men",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-13T00:00:00+05:30",
+    "end_date": "2026-03-31T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sustainability Ideathon & Project Expo",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-15T00:00:00+05:30",
+    "end_date": "2026-03-24T12:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "IPL Bidding War",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-15T10:00:00+05:30",
+    "end_date": "2026-03-30T18:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "IdeaSprint – Ideathon",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-14T00:00:00+05:30",
+    "end_date": "2026-04-01T14:06:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Parwaaz: Access in Action",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -36,7 +108,7 @@
     "college": ""
   },
   {
-    "name": "Design Paradox – UI & Product Design Challenge",
+    "name": "Design Paradox | UI & Product Design Challenge",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-12T00:00:00+05:30",
@@ -391,7 +463,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-20T22:00:00+05:30",
+    "end_date": "2026-03-21T16:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -588,7 +660,7 @@
     "name": "Research and Development Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-16T09:00:17+05:30",
+    "start_date": "2026-03-15T09:00:17+05:30",
     "end_date": "2026-03-28T18:00:08+05:30",
     "location": "",
     "college": ""
@@ -1319,78 +1391,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-12T00:00:00+05:30",
     "end_date": "2026-03-26T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Electronics HW Design Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-12T00:00:00+05:30",
-    "end_date": "2026-03-26T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "CD Engineering Solution Architect Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-12T00:00:00+05:30",
-    "end_date": "2026-03-26T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Full Stack Developer Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Tech Titans Arena - RC Strike",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T09:00:00+05:30",
-    "end_date": "2026-04-17T23:28:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Social-it 5.0: Open Mic Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-14T00:00:00+05:30",
-    "end_date": "2026-04-11T15:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "T&T Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Quality Excellence Assistant Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Laytime and Invoice Operator",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-27T00:00:00+05:30",
     "location": "",
     "college": ""
   }

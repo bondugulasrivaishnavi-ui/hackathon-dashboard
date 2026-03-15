@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,74 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Voice N Verse",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-03-15T00:00:00+05:30",
+    "end_date": "2026-03-22T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Workshop on Robotics with AR/VR",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-15T00:00:00+05:30",
+    "end_date": "2026-03-20T14:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Case-a-thon",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-16T00:00:00+05:30",
+    "end_date": "2026-03-29T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "NEXTGEN AI HACKATHON",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-15T00:00:00+05:30",
+    "end_date": "2026-03-22T21:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Prastavna  - NSS PPT COMPETITION",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-15T00:00:00+05:30",
+    "end_date": "2026-03-27T14:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Axiom 3.0: A Conventional Debate Tournament",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-01-14T00:00:00+05:30",
+    "end_date": "2026-03-25T16:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Call for Entries: Mercatique Magazine",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-15T00:00:00+05:30",
+    "end_date": "2026-03-18T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Cybersecurity Auditor",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-14T00:00:00+05:30",
+    "end_date": "2026-03-28T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -102,8 +174,8 @@
     "name": "Digital Marketing Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-14T00:00:00+05:30",
-    "end_date": "2026-03-28T00:00:00+05:30",
+    "start_date": "2026-03-15T00:00:00+05:30",
+    "end_date": "2026-03-29T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -759,7 +831,7 @@
     "name": "Rajyaneeti: A Policy Pitch Competition",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-15T20:00:00+05:30",
+    "start_date": "2026-03-15T18:00:00+05:30",
     "end_date": "2026-04-01T16:30:00+05:30",
     "location": "",
     "college": ""
@@ -1192,7 +1264,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-14T00:00:00+05:30",
-    "end_date": "2026-05-10T00:00:00+05:30",
+    "end_date": "2026-06-01T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1328,78 +1400,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-13T00:00:00+05:30",
     "end_date": "2026-03-31T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Coding Speedrun",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-29T16:15:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "TechAstra 3.0- Webathon",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-16T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development & Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-14T00:00:00+05:30",
-    "end_date": "2026-03-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Prompt Coding",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-30T15:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Chess Tournament",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T21:10:00+05:30",
-    "end_date": "2026-03-17T10:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Alankar (Solo / Duet Singing)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-14T00:00:00+05:30",
-    "end_date": "2026-04-09T23:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Social Media Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-big-code/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

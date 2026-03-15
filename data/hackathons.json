@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,56 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "BRAINBID",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-02-28T00:00:00+05:30",
+    "end_date": "2026-03-27T15:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Classified Hack",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-16T00:00:00+05:30",
+    "end_date": "2026-03-31T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "IT Infra and Cyber Security Service Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-15T00:00:00+05:30",
+    "end_date": "2026-03-29T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Clearing and Settlement Analyst",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-14T00:00:00+05:30",
+    "end_date": "2026-03-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Triple Threat Treasury",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-18T00:00:00+05:30",
+    "end_date": "2026-03-30T16:40:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Memory Game",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-03T09:00:00+05:30",
+    "end_date": "2026-03-27T16:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1155,7 +1209,7 @@
     "name": "Social Media & Growth Marketing Internship for an AI Startup",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-14T00:00:00+05:30",
+    "start_date": "2026-03-15T01:26:39+05:30",
     "end_date": "2026-03-29T20:30:00+05:30",
     "location": "",
     "college": ""
@@ -1292,69 +1346,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-14T00:00:00+05:30",
     "end_date": "2026-03-24T15:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Connect the Dots: The Infrastructure Integration Challenge",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-14T00:00:00+05:30",
-    "end_date": "2026-03-29T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "SEO Content & Research Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-14T22:27:21+05:30",
-    "end_date": "2026-03-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Snap Syntax 3.0",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-04-10T14:30:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Data Drift",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-04-11T17:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "UnCode",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-04-12T14:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Epochalypse",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-04-11T14:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-big-code/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

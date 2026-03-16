@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Hands on training on x ray diffractometer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,38 @@
     "college": ""
   },
   {
-    "name": "Hands on training on x ray diffractometer",
+    "name": "Cipher Blinders",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
+    "start_date": "2026-03-15T00:00:00+05:30",
+    "end_date": "2026-04-01T13:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Digital Marketing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-17T00:00:00+05:30",
+    "end_date": "2026-04-01T00:45:45+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Hackathon 2K26",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-02-25T00:00:00+05:30",
+    "end_date": "2026-03-27T15:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Frontend Developer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-17T00:00:00+05:30",
+    "end_date": "2026-03-31T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -40,7 +76,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-17T00:00:00+05:30",
-    "end_date": "2026-04-05T23:59:00+05:30",
+    "end_date": "2026-04-10T15:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -590,15 +626,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-14T00:00:00+05:30",
     "end_date": "2026-03-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Shipwreck- The Character Debate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-16T00:00:00+05:30",
-    "end_date": "2026-04-25T18:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1341,20 +1368,11 @@
     "college": ""
   },
   {
-    "name": "Site Reliability Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-13T00:00:00+05:30",
-    "end_date": "2026-03-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Marketing Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-16T00:00:00+05:30",
-    "end_date": "2026-03-30T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-big-code/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

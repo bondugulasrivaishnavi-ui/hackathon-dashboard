@@ -27,11 +27,56 @@
     "college": ""
   },
   {
+    "name": "Breaking Brand",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-18T00:00:00+05:30",
+    "end_date": "2026-04-02T00:51:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Senior Category Manager",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-18T00:00:00+05:30",
+    "end_date": "2026-04-01T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Search Engine Optimization Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-18T00:00:00+05:30",
+    "end_date": "2026-04-01T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "PHD Research Sciences Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-17T00:00:00+05:30",
+    "end_date": "2026-03-31T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Assoc SW Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-17T00:00:00+05:30",
+    "end_date": "2026-03-31T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Capture The Story",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-18T00:00:00+05:30",
-    "end_date": "2026-03-30T22:59:00+05:30",
+    "end_date": "2026-03-30T02:01:00+05:30",
     "location": "",
     "college": ""
   },
@@ -84,7 +129,7 @@
     "name": "AI Ka Hungama",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-18T17:59:00+05:30",
+    "start_date": "2026-03-18T00:59:00+05:30",
     "end_date": "2026-04-02T22:17:50+05:30",
     "location": "",
     "college": ""
@@ -189,7 +234,7 @@
     "college": ""
   },
   {
-    "name": "Map Pointer Quiz",
+    "name": "Map Pointer Quiz (OLD! DO NOT APPLY)",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-17T00:00:00+05:30",
@@ -270,7 +315,7 @@
     "college": ""
   },
   {
-    "name": "PersonaX 26",
+    "name": "PersonaX 2026",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-17T00:00:00+05:30",
@@ -446,15 +491,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-15T00:00:00+05:30",
     "end_date": "2026-03-29T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Bug Buster 3.0",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-16T00:00:00+05:30",
-    "end_date": "2026-04-01T18:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1391,51 +1427,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-17T00:00:00+05:30",
     "end_date": "2026-03-31T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Paper Revolutions - The Slam Poetry Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-17T00:00:00+05:30",
-    "end_date": "2026-03-21T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Motion Graphic Designer & Video Editor",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-17T00:00:00+05:30",
-    "end_date": "2026-03-31T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Video Short Reels",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-17T00:00:00+05:30",
-    "end_date": "2026-03-31T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "IPL Auction'26",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-17T00:00:00+05:30",
-    "end_date": "2026-04-30T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-big-code/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

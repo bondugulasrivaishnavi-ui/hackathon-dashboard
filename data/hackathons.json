@@ -27,10 +27,37 @@
     "college": ""
   },
   {
+    "name": "CEO Showdown",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-19T01:00:00+05:30",
+    "end_date": "2026-04-07T17:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "EmpowerHer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-19T00:00:00+05:30",
+    "end_date": "2026-04-03T01:06:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Social B-Plan Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-19T00:00:00+05:30",
+    "end_date": "2026-04-10T15:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "TarkShastra 2k26",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-20T00:00:00+05:30",
+    "start_date": "2026-03-21T00:00:00+05:30",
     "end_date": "2026-04-05T00:00:00+05:30",
     "location": "",
     "college": ""
@@ -409,7 +436,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-18T00:00:00+05:30",
-    "end_date": "2026-04-01T00:00:00+05:30",
+    "end_date": "2026-04-30T20:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -562,7 +589,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-18T00:00:00+05:30",
-    "end_date": "2026-04-09T00:00:00+05:30",
+    "end_date": "2026-04-10T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1156,7 +1183,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-18T00:00:00+05:30",
-    "end_date": "2026-04-01T00:00:00+05:30",
+    "end_date": "2026-04-02T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1319,33 +1346,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-18T00:00:00+05:30",
     "end_date": "2026-04-05T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Branch Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-18T00:00:00+05:30",
-    "end_date": "2026-04-01T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Codeshastra XII",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-17T00:00:00+05:30",
-    "end_date": "2026-04-05T20:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-big-code/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

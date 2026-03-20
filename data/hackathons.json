@@ -1,14 +1,5 @@
 [
   {
-    "name": "Social Media Marketing",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -23,6 +14,42 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-11-01T00:00:00+05:30",
     "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Bid to Build",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-21T00:00:00+05:30",
+    "end_date": "2026-03-27T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Ignix",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-12T00:00:00+05:30",
+    "end_date": "2026-04-10T16:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Quiz Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-19T00:00:00+05:30",
+    "end_date": "2026-03-28T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -76,7 +103,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-20T00:00:00+05:30",
-    "end_date": "2026-04-25T23:59:00+05:30",
+    "end_date": "2026-04-25T17:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1323,29 +1350,11 @@
     "college": ""
   },
   {
-    "name": "Strata X",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-20T10:00:00+05:30",
-    "end_date": "2026-04-05T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "InnovateX",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-19T00:00:00+05:30",
-    "end_date": "2026-04-02T10:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Flashmob",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-19T00:00:00+05:30",
-    "end_date": "2026-04-08T16:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-big-code/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

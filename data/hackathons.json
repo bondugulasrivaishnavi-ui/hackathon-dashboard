@@ -1,5 +1,14 @@
 [
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,128 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "InnoQuest  || Pixels 2026",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-08T07:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Arena 180: A Strategy Case Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-15T15:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Mokshapataram",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-19T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Metal Master",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-27T00:00:00+05:30",
+    "end_date": "2026-04-10T23:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Roborace Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-10T17:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Ad-mania",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-11T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Battle of Kings",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-08T14:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Founder Runway",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T18:00:00+05:30",
+    "end_date": "2026-04-19T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Team Lead- Sales",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-11T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Case Hunt",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T18:00:00+05:30",
+    "end_date": "2026-04-19T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Project Showcase",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-24T00:00:00+05:30",
+    "end_date": "2026-04-15T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-11T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Weekly Java Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T18:00:00+05:30",
+    "end_date": "2026-03-29T21:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Blindfold Electric Circuit Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-09T16:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -32,15 +158,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-23T00:00:00+05:30",
     "end_date": "2026-04-11T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Robo Race",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-02T00:00:00+05:30",
-    "end_date": "2026-04-22T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -76,7 +193,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-09T16:00:00+05:30",
+    "end_date": "2026-04-09T15:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -239,15 +356,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-27T00:00:00+05:30",
     "end_date": "2026-04-10T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "React Developer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-28T00:00:00+05:30",
-    "end_date": "2026-04-11T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -603,15 +711,6 @@
     "college": ""
   },
   {
-    "name": "Business Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-28T00:00:00+05:30",
-    "end_date": "2026-04-11T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "NIU Startup Nexus",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -831,8 +930,8 @@
     "name": "Sales Officer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-10T00:00:00+05:30",
+    "start_date": "2026-03-28T00:00:00+05:30",
+    "end_date": "2026-04-11T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1256,123 +1355,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-27T00:00:00+05:30",
     "end_date": "2026-04-10T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Business Analyst",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-10T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Nexus",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-19T15:35:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Contrivance: The Legacy Case Study Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-15T16:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "MacroMayhem: The Policy Case Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-26T00:00:00+05:30",
-    "end_date": "2026-04-08T15:30:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "YOLO- Pune Edition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-04T23:58:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Bidweiser 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-16T17:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "The Drop",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-10T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Typix : a Typothon",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-16T19:10:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "National Level Project Competition (NLPC-2026)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T22:00:00+05:30",
-    "end_date": "2026-04-11T21:25:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Robowars - Hell in a Cell",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-19T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Quizify",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-12T11:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Bet for Tech",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-27T00:00:00+05:30",
-    "end_date": "2026-04-16T21:18:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-big-code/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

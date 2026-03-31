@@ -1269,20 +1269,20 @@
     "college": ""
   },
   {
-    "name": "Software Principal Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-03-30T00:00:00+05:30",
-    "end_date": "2026-04-13T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Payroll Associate",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-03-26T00:00:00+05:30",
     "end_date": "2026-04-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Software Principal Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-03-30T00:00:00+05:30",
+    "end_date": "2026-04-13T00:00:00+05:30",
     "location": "",
     "college": ""
   },

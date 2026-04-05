@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,83 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Software Engineer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-04-05T00:00:00+05:30",
+    "end_date": "2026-04-19T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Gavel & Wickets | Entreuzest'26",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-06T00:00:00+05:30",
+    "end_date": "2026-04-10T15:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Aero Flux",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-06T00:00:00+05:30",
+    "end_date": "2026-04-15T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Crack the Case | Entreuzest'26",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-06T00:00:00+05:30",
+    "end_date": "2026-04-10T15:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Fitsol Strategy Challenge: Driving Decarbonization at Scale",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-06T00:00:00+05:30",
+    "end_date": "2026-04-18T00:37:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Cipher Circuit",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-06T00:00:00+05:30",
+    "end_date": "2026-04-14T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Wordpress & Shopify Developer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-05T00:00:00+05:30",
+    "end_date": "2026-04-19T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Telesales Associate",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-06T08:00:49+05:30",
+    "end_date": "2026-04-21T07:54:49+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-07T05:10:47+05:30",
+    "end_date": "2026-04-19T23:38:00+05:30",
     "location": "",
     "college": ""
   },
@@ -481,7 +562,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-05T17:04:35+05:30",
-    "end_date": "2026-04-12T04:37:57+05:30",
+    "end_date": "2026-04-17T00:54:00+05:30",
     "location": "",
     "college": ""
   },
@@ -617,15 +698,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-04T00:00:00+05:30",
     "end_date": "2026-04-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Software Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-05T00:00:00+05:30",
-    "end_date": "2026-04-19T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -894,8 +966,8 @@
     "name": "Data Analyst Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-04T00:00:00+05:30",
-    "end_date": "2026-04-18T00:00:00+05:30",
+    "start_date": "2026-04-05T13:29:07+05:30",
+    "end_date": "2026-04-19T13:29:07+05:30",
     "location": "",
     "college": ""
   },
@@ -1319,78 +1391,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-04T00:00:00+05:30",
     "end_date": "2026-04-06T19:42:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Dance Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-04T00:00:00+05:30",
-    "end_date": "2026-04-19T18:44:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Social Media Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-04T00:00:00+05:30",
-    "end_date": "2026-04-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Research and Operations Associate / Personal Assistant",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-04T00:00:00+05:30",
-    "end_date": "2026-04-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Arduino Innovation",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-04T00:00:00+05:30",
-    "end_date": "2026-04-10T13:33:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-04T00:00:00+05:30",
-    "end_date": "2026-04-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Quantix",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-04T00:00:00+05:30",
-    "end_date": "2026-04-19T16:39:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Executive (BDE)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-04T00:00:00+05:30",
-    "end_date": "2026-04-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Singing Competition by SAAZ -  IIIT Ranchi",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-04T00:00:00+05:30",
-    "end_date": "2026-04-19T18:36:00+05:30",
     "location": "",
     "college": ""
   }

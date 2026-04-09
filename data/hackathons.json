@@ -1,19 +1,19 @@
 [
   {
-    "name": "Hands on training on x ray diffractometer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-11-01T00:00:00+05:30",
     "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Hands on training on x ray diffractometer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -27,11 +27,29 @@
     "college": ""
   },
   {
-    "name": "Cric-O-Auction 3.0",
+    "name": "Assistant Manager - Strategy Consulting",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-09T00:00:00+05:30",
-    "end_date": "2026-04-13T23:59:00+05:30",
+    "end_date": "2026-04-23T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Data Scientist",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-09T00:00:00+05:30",
+    "end_date": "2026-04-23T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Cric-O-Auction 3.0 - ASTIR 9.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-09T00:00:00+05:30",
+    "end_date": "2026-04-17T18:30:00+05:30",
     "location": "",
     "college": ""
   },
@@ -63,11 +81,11 @@
     "college": ""
   },
   {
-    "name": "Case Craft",
+    "name": "Case Craft ( A Case Competition)",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-10T00:00:00+05:30",
-    "end_date": "2026-04-18T12:00:00+05:30",
+    "end_date": "2026-04-21T17:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -81,7 +99,7 @@
     "college": ""
   },
   {
-    "name": "Impact Pitch - A Shark Tank Model",
+    "name": "Impact Pitch: From Vision to Venture",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-09T00:00:00+05:30",
@@ -346,7 +364,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-03T06:30:00+05:30",
-    "end_date": "2026-04-22T14:31:55+05:30",
+    "end_date": "2026-04-22T15:31:55+05:30",
     "location": "",
     "college": ""
   },
@@ -1328,24 +1346,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-07T00:00:00+05:30",
     "end_date": "2026-04-21T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Senior Executive - Revenue Assurance",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-09T00:00:00+05:30",
-    "end_date": "2026-04-23T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Chartering Operations Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-09T00:00:00+05:30",
-    "end_date": "2026-04-23T00:00:00+05:30",
     "location": "",
     "college": ""
   }

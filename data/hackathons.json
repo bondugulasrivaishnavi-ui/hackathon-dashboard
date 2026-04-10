@@ -27,6 +27,24 @@
     "college": ""
   },
   {
+    "name": "Business Development Executive (BDE)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-10T00:00:00+05:30",
+    "end_date": "2026-04-24T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "US Sales Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-10T00:00:00+05:30",
+    "end_date": "2026-04-24T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Field Sales Executive",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -621,15 +639,6 @@
     "college": ""
   },
   {
-    "name": "Business Development Executive (BDE)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-10T00:00:00+05:30",
-    "end_date": "2026-04-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Sales Officer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1183,7 +1192,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-03T00:00:00+05:30",
-    "end_date": "2026-04-22T15:30:00+05:30",
+    "end_date": "2026-04-22T15:30:48+05:30",
     "location": "",
     "college": ""
   },
@@ -1364,24 +1373,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-09T00:00:00+05:30",
     "end_date": "2026-04-23T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Bizz Fiesta - LeadSpark",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-09T00:00:00+05:30",
-    "end_date": "2026-04-25T23:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "2nd SmallAI Hackathon",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-03T00:00:00+05:30",
-    "end_date": "2026-04-16T00:00:00+05:30",
     "location": "",
     "college": ""
   }

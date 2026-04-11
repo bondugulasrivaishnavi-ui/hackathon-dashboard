@@ -1,14 +1,5 @@
 [
   {
-    "name": "Hands on training on x ray diffractometer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +9,47 @@
     "college": ""
   },
   {
+    "name": "Hands on training on x ray diffractometer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2023-02-27T00:00:00+05:30",
     "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Treasure Hunt",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-11T00:00:00+05:30",
+    "end_date": "2026-04-17T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Capital Catalyst",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-12T00:00:00+05:30",
+    "end_date": "2026-04-18T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "LUMIERE'26 : Trailer making competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-11T00:00:00+05:30",
+    "end_date": "2026-04-25T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -58,7 +85,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-12T04:00:00+05:30",
-    "end_date": "2026-04-15T23:59:00+05:30",
+    "end_date": "2026-04-15T23:40:00+05:30",
     "location": "",
     "college": ""
   },
@@ -67,7 +94,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-12T04:00:00+05:30",
-    "end_date": "2026-04-17T11:59:00+05:30",
+    "end_date": "2026-04-17T23:40:00+05:30",
     "location": "",
     "college": ""
   },
@@ -94,7 +121,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-12T04:00:00+05:30",
-    "end_date": "2026-04-17T11:59:00+05:30",
+    "end_date": "2026-04-17T23:40:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1328,33 +1355,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-10T00:00:00+05:30",
     "end_date": "2026-04-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HR Generalist",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-10T00:00:00+05:30",
-    "end_date": "2026-04-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "CRM Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-10T00:00:00+05:30",
-    "end_date": "2026-04-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-tiny-fish-hackathon-2026/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

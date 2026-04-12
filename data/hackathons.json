@@ -1,14 +1,5 @@
 [
   {
-    "name": "Canva Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +9,83 @@
     "college": ""
   },
   {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2023-02-27T00:00:00+05:30",
     "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Software Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-11T00:00:00+05:30",
+    "end_date": "2026-04-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Senior Security Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-12T00:00:00+05:30",
+    "end_date": "2026-04-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "AI Infrastructure Manager",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-12T00:00:00+05:30",
+    "end_date": "2026-04-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Accounting & Reporting Analyst",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-12T00:00:00+05:30",
+    "end_date": "2026-04-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Finance Analyst",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-12T00:00:00+05:30",
+    "end_date": "2026-04-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "PoiseUp- Free Seminar for Interviews Etiquette & Confidence building",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-12T00:00:00+05:30",
+    "end_date": "2026-04-20T14:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "IT Recruiter Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-12T00:00:00+05:30",
+    "end_date": "2026-04-26T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -202,7 +265,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-12T00:00:00+05:30",
-    "end_date": "2026-04-18T00:00:00+05:30",
+    "end_date": "2026-04-22T18:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -316,15 +379,6 @@
   },
   {
     "name": "Client Support Apprentice",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-11T00:00:00+05:30",
-    "end_date": "2026-04-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Software Engineer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-11T00:00:00+05:30",
@@ -1111,7 +1165,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-11T00:00:00+05:30",
-    "end_date": "2026-05-01T23:59:00+05:30",
+    "end_date": "2026-05-10T17:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1319,69 +1373,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-10T00:30:33+05:30",
     "end_date": "2026-04-18T13:00:36+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Customer Support Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-08T00:00:00+05:30",
-    "end_date": "2026-04-22T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Circuit Debugging and Simulation",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-11T09:40:51+05:30",
-    "end_date": "2026-04-18T14:30:26+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Documentation through Photogrammetry",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-11T09:00:00+05:30",
-    "end_date": "2026-04-16T18:30:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-11T00:00:00+05:30",
-    "end_date": "2026-04-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "eCommerce Operations Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-11T00:00:00+05:30",
-    "end_date": "2026-04-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Human Resource Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-10T00:00:00+05:30",
-    "end_date": "2026-04-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Fish Tank",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-10T21:00:00+05:30",
-    "end_date": "2026-04-15T17:00:00+05:30",
     "location": "",
     "college": ""
   }

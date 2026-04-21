@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,29 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Junior Executive- Accounts",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-04-21T00:00:00+05:30",
+    "end_date": "2026-05-05T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Analyst",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-21T00:00:00+05:30",
+    "end_date": "2026-05-05T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Startup Hackathon - 7 Days Coding and Entrepreneurship Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-21T00:00:00+05:30",
+    "end_date": "2026-05-10T10:30:00+05:30",
     "location": "",
     "college": ""
   },
@@ -486,7 +513,7 @@
     "college": ""
   },
   {
-    "name": "AR/CSR Lead",
+    "name": "Executive Assistant to Director",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-21T00:00:00+05:30",
@@ -1296,29 +1323,11 @@
     "college": ""
   },
   {
-    "name": "Human Resources Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-21T00:00:00+05:30",
-    "end_date": "2026-05-05T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Client Relationship Associate (NGO Calling Process)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-21T00:00:00+05:30",
-    "end_date": "2026-05-05T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "SMU Day - Bangalore",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-13T00:00:00+05:30",
-    "end_date": "2026-04-23T12:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-tiny-fish-hackathon-2026/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

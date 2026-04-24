@@ -1,5 +1,14 @@
 [
   {
+    "name": "Hands on training on x ray diffractometer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,38 @@
     "college": ""
   },
   {
-    "name": "Hands on training on x ray diffractometer",
+    "name": "Hacknovate 2k26",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
+    "start_date": "2026-04-11T21:46:00+05:30",
+    "end_date": "2026-05-17T17:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Research Internship 2.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-24T23:40:35+05:30",
+    "end_date": "2026-04-14T12:04:55+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Prenuers Founder’s Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-24T00:00:00+05:30",
+    "end_date": "2026-05-09T22:26:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Dot NET Developer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-24T00:00:00+05:30",
+    "end_date": "2026-05-08T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -207,7 +243,7 @@
     "college": ""
   },
   {
-    "name": "Campus Rep",
+    "name": "Campus Ambassador Program Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-24T00:00:00+05:30",
@@ -1251,29 +1287,11 @@
     "college": ""
   },
   {
-    "name": "Devwrap 2.O-Slot 3",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-24T12:00:00+05:30",
-    "end_date": "2026-05-01T12:43:34+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "DEVWRAP 2.O-Slot 1",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-24T12:00:00+05:30",
-    "end_date": "2026-04-24T15:01:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Marketing Strategist",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-24T00:00:00+05:30",
-    "end_date": "2026-05-08T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-tiny-fish-hackathon-2026/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

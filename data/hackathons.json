@@ -27,6 +27,60 @@
     "college": ""
   },
   {
+    "name": "Travel Research Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-26T00:00:00+05:30",
+    "end_date": "2026-05-10T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "StarHacks 1.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-25T19:15:00+05:30",
+    "end_date": "2026-05-09T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Senior Product Manager",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-25T00:00:00+05:30",
+    "end_date": "2026-05-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Talent Acquisition Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-25T00:00:00+05:30",
+    "end_date": "2026-05-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Client Onboarding Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-25T00:00:00+05:30",
+    "end_date": "2026-05-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Financial Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-25T00:00:00+05:30",
+    "end_date": "2026-05-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Advanced Process Control Engineer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1287,56 +1341,11 @@
     "college": ""
   },
   {
-    "name": "Graphic Designing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-24T00:00:00+05:30",
-    "end_date": "2026-05-08T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Telecalling Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-24T00:00:00+05:30",
-    "end_date": "2026-05-08T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HR Recruiting Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-24T00:00:00+05:30",
-    "end_date": "2026-05-08T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Script Writing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-24T00:00:00+05:30",
-    "end_date": "2026-05-09T18:16:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Field Sales Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-24T00:00:00+05:30",
-    "end_date": "2026-05-08T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Content/Copy Writer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-24T00:00:00+05:30",
-    "end_date": "2026-05-08T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-tiny-fish-hackathon-2026/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,20 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "HR Sustainability Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-05-01T00:00:00+05:30",
+    "end_date": "2026-05-15T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Graphic Design Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-04-30T00:00:00+05:30",
+    "end_date": "2026-05-14T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1062,15 +1080,6 @@
     "college": ""
   },
   {
-    "name": "Graphic Design Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-30T00:00:00+05:30",
-    "end_date": "2026-05-14T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Tax Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1332,11 +1341,11 @@
     "college": ""
   },
   {
-    "name": "Recruitment & Talent Acquisition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-04-30T00:00:00+05:30",
-    "end_date": "2026-05-09T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-tiny-fish-hackathon-2026/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

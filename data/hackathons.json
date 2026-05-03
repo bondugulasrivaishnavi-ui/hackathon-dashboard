@@ -27,6 +27,33 @@
     "college": ""
   },
   {
+    "name": "Roots",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-05-04T12:00:00+05:30",
+    "end_date": "2026-05-15T18:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Campus Head Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-05-03T00:00:00+05:30",
+    "end_date": "2026-05-17T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Marketplace Operations Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-05-01T00:00:00+05:30",
+    "end_date": "2026-05-15T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Full Stack Developer Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1260,7 +1287,7 @@
     "college": ""
   },
   {
-    "name": "AI Animation Video Creator Internship",
+    "name": "2D & 3D Animation Video Creator Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-05-02T00:00:00+05:30",
@@ -1292,33 +1319,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-04-19T00:00:00+05:30",
     "end_date": "2026-05-10T17:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Content & Growth Internship - Linkedin",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-05-01T00:00:00+05:30",
-    "end_date": "2026-05-15T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Financial Controls System Analyst",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-05-01T00:00:00+05:30",
-    "end_date": "2026-05-15T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Accounting Specialist",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-05-01T00:00:00+05:30",
-    "end_date": "2026-05-15T00:00:00+05:30",
     "location": "",
     "college": ""
   }

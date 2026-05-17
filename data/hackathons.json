@@ -27,6 +27,15 @@
     "college": ""
   },
   {
+    "name": "HR Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-05-16T00:00:00+05:30",
+    "end_date": "2026-05-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Campus Ambassador Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -283,7 +292,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-05-16T00:00:00+05:30",
-    "end_date": "2026-05-31T00:00:00+05:30",
+    "end_date": "2026-06-12T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1098,15 +1107,6 @@
     "college": ""
   },
   {
-    "name": "HR Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-05-16T00:00:00+05:30",
-    "end_date": "2026-05-30T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "HR Services Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1355,15 +1355,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-05-15T00:00:00+05:30",
     "end_date": "2026-05-29T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "AI Image Editor",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-05-14T00:00:00+05:30",
-    "end_date": "2026-05-28T00:00:00+05:30",
     "location": "",
     "college": ""
   },

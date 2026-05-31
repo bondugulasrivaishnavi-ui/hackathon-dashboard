@@ -886,7 +886,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-05-29T00:00:00+05:30",
-    "end_date": "2026-06-13T17:34:00+05:30",
+    "end_date": "2026-06-20T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1283,15 +1283,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-05-29T00:00:00+05:30",
     "end_date": "2026-06-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-tiny-fish-hackathon-2026/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

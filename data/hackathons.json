@@ -1,5 +1,14 @@
 [
   {
+    "name": "Hands on training on x ray diffractometer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,20 @@
     "college": ""
   },
   {
-    "name": "Hands on training on x ray diffractometer",
+    "name": "Founder's Office Associate Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
+    "start_date": "2026-06-12T00:00:00+05:30",
+    "end_date": "2026-06-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales & Marketing Executive Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-13T00:00:00+05:30",
+    "end_date": "2026-06-27T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -93,8 +111,8 @@
     "name": "Business Development Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-11T00:00:00+05:30",
-    "end_date": "2026-06-25T00:00:00+05:30",
+    "start_date": "2026-06-12T00:00:00+05:30",
+    "end_date": "2026-06-26T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -381,8 +399,8 @@
     "name": "Human Resources Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-11T00:00:00+05:30",
-    "end_date": "2026-06-25T00:00:00+05:30",
+    "start_date": "2026-06-12T00:00:00+05:30",
+    "end_date": "2026-06-26T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1202,6 +1220,15 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-06-11T00:00:00+05:30",
     "end_date": "2026-06-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/beat-the-heat-challenge/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

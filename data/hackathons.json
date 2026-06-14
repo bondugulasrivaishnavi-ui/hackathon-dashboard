@@ -27,11 +27,56 @@
     "college": ""
   },
   {
-    "name": "Digital Marketing Internship",
+    "name": "Business Development Executive (BDE)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-14T00:00:00+05:30",
+    "end_date": "2026-06-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Digital Solutions Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-14T00:00:00+05:30",
+    "end_date": "2026-06-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Full Stack Developer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-14T00:00:00+05:30",
+    "end_date": "2026-06-19T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "ADORE Career Skills Webinars",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-14T00:00:00+05:30",
+    "end_date": "2026-06-15T13:02:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Lead Generation League- 2",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-06-13T00:00:00+05:30",
-    "end_date": "2026-06-27T00:00:00+05:30",
+    "end_date": "2026-06-28T18:47:58+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Digital Marketing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-14T00:00:00+05:30",
+    "end_date": "2026-06-28T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -813,8 +858,8 @@
     "name": "HR Business Operations Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-12T00:00:00+05:30",
-    "end_date": "2026-06-26T00:00:00+05:30",
+    "start_date": "2026-06-13T00:00:00+05:30",
+    "end_date": "2026-06-27T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1323,29 +1368,11 @@
     "college": ""
   },
   {
-    "name": "Customer Success Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-13T00:00:00+05:30",
-    "end_date": "2026-06-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Campus Recruitment / Campus Relations Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-13T00:00:00+05:30",
-    "end_date": "2026-06-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Audit Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-12T00:00:00+05:30",
-    "end_date": "2026-06-26T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/beat-the-heat-challenge/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

@@ -27,6 +27,33 @@
     "college": ""
   },
   {
+    "name": "Build The Next Big UI",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-22T00:00:00+05:30",
+    "end_date": "2026-07-10T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Arthanomics 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-21T00:00:00+05:30",
+    "end_date": "2026-08-02T01:48:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "AI Career Readiness Challenge 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-21T00:00:00+05:30",
+    "end_date": "2026-07-05T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Social Media Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -40,7 +67,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-06-21T00:00:00+05:30",
-    "end_date": "2026-07-05T00:00:00+05:30",
+    "end_date": "2026-06-28T04:06:44+05:30",
     "location": "",
     "college": ""
   },
@@ -194,15 +221,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-06-15T00:00:00+05:30",
     "end_date": "2026-06-26T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Bharat Quiz Championship 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-20T00:00:00+05:30",
-    "end_date": "2026-07-06T00:20:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1341,20 +1359,11 @@
     "college": ""
   },
   {
-    "name": "Support Analyst - Mercury",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-19T00:00:00+05:30",
-    "end_date": "2026-07-03T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "TBM Trainee",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-19T00:00:00+05:30",
-    "end_date": "2026-07-03T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/scriptedbyher-2026/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

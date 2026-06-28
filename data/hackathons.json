@@ -432,20 +432,20 @@
     "college": ""
   },
   {
-    "name": "Beyond ChatGPT: Building Real-World AI Experiences",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-27T13:40:36+05:30",
-    "end_date": "2026-06-30T13:42:11+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Agency Manager - Maharashtra",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-06-27T00:00:00+05:30",
     "end_date": "2026-07-11T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Beyond ChatGPT: Building Real-World AI Experiences",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-06-27T13:40:36+05:30",
+    "end_date": "2026-06-30T13:42:11+05:30",
     "location": "",
     "college": ""
   },
@@ -1220,15 +1220,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-06-26T00:00:00+05:30",
     "end_date": "2026-07-10T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-talent-hack-build-compete-get-hired/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

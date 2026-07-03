@@ -27,6 +27,60 @@
     "college": ""
   },
   {
+    "name": "Business Intelligence Analyst",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-03T00:00:00+05:30",
+    "end_date": "2026-07-17T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Research Analyst",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-02T00:00:00+05:30",
+    "end_date": "2026-07-16T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Human Resource Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-02T00:00:00+05:30",
+    "end_date": "2026-07-16T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Academic Counsellor",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-02T00:00:00+05:30",
+    "end_date": "2026-07-16T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "GTM & Field Marketing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-02T00:00:00+05:30",
+    "end_date": "2026-07-16T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "AI & Robotics Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-02T00:00:00+05:30",
+    "end_date": "2026-07-15T23:41:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "HR Trainee",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -687,7 +741,7 @@
     "name": "Marketing Associate",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-26T00:00:00+05:30",
+    "start_date": "2026-07-02T00:00:00+05:30",
     "end_date": "2026-07-16T00:00:00+05:30",
     "location": "",
     "college": ""
@@ -1233,38 +1287,11 @@
     "college": ""
   },
   {
-    "name": "Commodity Market Analyst",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-02T00:00:00+05:30",
-    "end_date": "2026-07-16T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "KYC Representative (APAC)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-30T00:00:00+05:30",
-    "end_date": "2026-07-14T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Senior Analyst - GIS Maps",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-26T00:00:00+05:30",
-    "end_date": "2026-07-16T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Non Voice Customer Support Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-02T00:00:00+05:30",
-    "end_date": "2026-07-16T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-talent-hack-build-compete-get-hired/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

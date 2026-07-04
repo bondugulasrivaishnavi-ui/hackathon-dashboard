@@ -1,5 +1,14 @@
 [
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,29 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Marketing Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-07-03T00:00:00+05:30",
+    "end_date": "2026-07-17T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Video Editor",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-04T08:34:10+05:30",
+    "end_date": "2026-07-18T08:34:10+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Software Developer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-04T00:00:00+05:30",
+    "end_date": "2026-07-08T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -324,15 +351,6 @@
     "college": ""
   },
   {
-    "name": "Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-03T00:00:00+05:30",
-    "end_date": "2026-07-17T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Graphic Design Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -405,7 +423,7 @@
     "college": ""
   },
   {
-    "name": "Tech-A-Thon 5.0",
+    "name": "Tech-A-Thon 5.0 - By ECE Society",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-04T00:00:00+05:30",
@@ -963,11 +981,11 @@
     "college": ""
   },
   {
-    "name": "HackOcean —   A National  Level Frontend Hackathon",
+    "name": "HackOcean - A National  Level Frontend Hackathon",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-06-29T00:00:00+05:30",
-    "end_date": "2026-07-22T22:00:00+05:30",
+    "end_date": "2026-07-24T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1332,29 +1350,11 @@
     "college": ""
   },
   {
-    "name": "Credit Analyst – Support Services",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-06-30T00:00:00+05:30",
-    "end_date": "2026-07-14T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Operation Digital Solution Apprenticeship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-02T00:00:00+05:30",
-    "end_date": "2026-07-17T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Content Analyst",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-03T00:00:00+05:30",
-    "end_date": "2026-07-17T00:00:00+05:30",
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-talent-hack-build-compete-get-hired/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

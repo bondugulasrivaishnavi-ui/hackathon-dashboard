@@ -45,20 +45,20 @@
     "college": ""
   },
   {
-    "name": "Outreach Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-06T00:00:00+05:30",
-    "end_date": "2026-07-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Advisory Services Associate",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-05T00:00:00+05:30",
     "end_date": "2026-07-19T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Outreach Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-06T00:00:00+05:30",
+    "end_date": "2026-07-20T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1292,6 +1292,15 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-06T00:00:00+05:30",
     "end_date": "2026-07-13T23:58:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "",
+    "source": "HackerEarth",
+    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-talent-hack-build-compete-get-hired/",
+    "start_date": "",
+    "end_date": "",
     "location": "",
     "college": ""
   }

@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,38 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Field Sales Officer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-07-06T00:00:00+05:30",
+    "end_date": "2026-07-20T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Campus Ambassador Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-07T09:00:20+05:30",
+    "end_date": "2026-07-21T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Founding Campus Head Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-06T00:00:00+05:30",
+    "end_date": "2026-07-20T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales Development Executive - Outbound Calling",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-07T00:00:00+05:30",
+    "end_date": "2026-07-21T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -45,20 +81,20 @@
     "college": ""
   },
   {
-    "name": "Advisory Services Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-05T00:00:00+05:30",
-    "end_date": "2026-07-19T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Outreach Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-06T00:00:00+05:30",
     "end_date": "2026-07-20T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Advisory Services Associate",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-05T00:00:00+05:30",
+    "end_date": "2026-07-19T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1256,51 +1292,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-06T00:00:00+05:30",
     "end_date": "2026-07-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Junior Digital Creative Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-04T00:00:00+05:30",
-    "end_date": "2026-07-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Project Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-04T00:00:00+05:30",
-    "end_date": "2026-07-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Process Representative",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-04T00:00:00+05:30",
-    "end_date": "2026-07-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HR Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-06T00:00:00+05:30",
-    "end_date": "2026-07-13T23:58:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-talent-hack-build-compete-get-hired/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

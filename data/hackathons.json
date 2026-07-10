@@ -481,7 +481,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-09T14:39:27+05:30",
-    "end_date": "2026-07-14T14:39:27+05:30",
+    "end_date": "2026-07-17T08:58:59+05:30",
     "location": "",
     "college": ""
   },
@@ -1355,15 +1355,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-09T00:00:00+05:30",
     "end_date": "2026-07-23T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "",
-    "source": "HackerEarth",
-    "source_url": "https://www.hackerearth.comhttps://www.hackerearth.com/challenges/hackathon/the-talent-hack-build-compete-get-hired/",
-    "start_date": "",
-    "end_date": "",
     "location": "",
     "college": ""
   }

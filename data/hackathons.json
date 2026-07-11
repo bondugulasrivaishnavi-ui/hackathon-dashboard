@@ -1,14 +1,5 @@
 [
   {
-    "name": "Social Media Marketing",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +9,65 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-08-27T00:00:00+05:30",
     "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales Associate WFO Bangalore || 3.6-4Lpa",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-11T00:00:00+05:30",
+    "end_date": "2026-07-31T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Start up Conclave",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-11T00:00:00+05:30",
+    "end_date": "2026-09-05T16:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "EcoVision Poster Challenge 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-10T00:00:00+05:30",
+    "end_date": "2026-07-25T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "HR Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-11T00:00:00+05:30",
+    "end_date": "2026-07-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Marketing & Growth Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-12T00:00:00+05:30",
+    "end_date": "2026-07-26T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -255,8 +300,8 @@
     "name": "Marketing Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-10T00:00:00+05:30",
-    "end_date": "2026-07-24T00:00:00+05:30",
+    "start_date": "2026-07-11T00:00:00+05:30",
+    "end_date": "2026-07-25T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -640,15 +685,6 @@
   },
   {
     "name": "Java Full Stack Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-11T00:00:00+05:30",
-    "end_date": "2026-07-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HR Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-11T00:00:00+05:30",
@@ -1256,42 +1292,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-10T00:00:00+05:30",
     "end_date": "2026-07-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HR & Administrative Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-10T00:00:00+05:30",
-    "end_date": "2026-07-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Media & Internet Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-11T00:00:00+05:30",
-    "end_date": "2026-07-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Social Media & Content Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-10T00:00:00+05:30",
-    "end_date": "2026-07-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Growth Executive - Noida",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-10T00:00:00+05:30",
-    "end_date": "2026-07-23T21:54:00+05:30",
     "location": "",
     "college": ""
   }

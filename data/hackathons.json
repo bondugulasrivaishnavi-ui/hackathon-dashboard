@@ -27,6 +27,15 @@
     "college": ""
   },
   {
+    "name": "EVOKE 26",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-23T18:00:00+05:30",
+    "end_date": "2026-08-22T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Sales and Marketing Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -1220,15 +1229,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-21T00:00:00+05:30",
     "end_date": "2026-07-25T12:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Impetus'26",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-25T23:59:00+05:30",
-    "end_date": "2026-08-09T23:59:00+05:30",
     "location": "",
     "college": ""
   }

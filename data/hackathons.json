@@ -1,5 +1,14 @@
 [
   {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,29 @@
     "college": ""
   },
   {
-    "name": "Canva Designer",
+    "name": "Finance Intern",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
+    "start_date": "2026-07-26T00:00:00+05:30",
+    "end_date": "2026-08-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Product development Trainee Program",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-26T00:00:00+05:30",
+    "end_date": "2026-08-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Call Center Analyst",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-26T00:00:00+05:30",
+    "end_date": "2026-08-09T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -120,8 +147,8 @@
     "name": "Founder's Office Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-24T00:00:00+05:30",
-    "end_date": "2026-08-07T00:00:00+05:30",
+    "start_date": "2026-07-26T00:00:00+05:30",
+    "end_date": "2026-08-09T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1229,15 +1256,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-24T00:00:00+05:30",
     "end_date": "2026-08-07T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Student Outreach & Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-23T00:00:00+05:30",
-    "end_date": "2026-08-06T00:00:00+05:30",
     "location": "",
     "college": ""
   }

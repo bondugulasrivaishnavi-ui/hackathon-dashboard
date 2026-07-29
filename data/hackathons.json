@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,83 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Inkspire | Graphic Design Challenge | ORBIT 1.0",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-07-30T00:00:00+05:30",
+    "end_date": "2026-08-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Escape Room | Puzzle & Mystery Challenge | ORBIT 1.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-30T00:00:00+05:30",
+    "end_date": "2026-08-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "BGMI | BattleGrid | ORBIT 1.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-30T00:00:00+05:30",
+    "end_date": "2026-08-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Counter-Strike 2 | BattleGrid | ORBIT 1.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-30T00:00:00+05:30",
+    "end_date": "2026-08-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Tekken 8 | BattleGrid | ORBIT 1.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-30T00:00:00+05:30",
+    "end_date": "2026-08-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Futsal (Men's)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-19T00:00:00+05:30",
+    "end_date": "2026-11-01T09:32:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Marketing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-20T00:00:00+05:30",
+    "end_date": "2026-08-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Software Engineer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-29T00:00:00+05:30",
+    "end_date": "2026-08-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Technical Recruiter Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-29T00:00:00+05:30",
+    "end_date": "2026-08-12T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -95,15 +176,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-29T00:00:00+05:30",
     "end_date": "2026-08-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-20T00:00:00+05:30",
-    "end_date": "2026-08-03T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1116,20 +1188,20 @@
     "college": ""
   },
   {
-    "name": "MS Engineer (L1)- VMware Admin",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-15T00:00:00+05:30",
-    "end_date": "2026-08-14T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Associate Analyst, Applications Programming",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-26T00:00:00+05:30",
     "end_date": "2026-08-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "MS Engineer (L1)- VMware Admin",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-15T00:00:00+05:30",
+    "end_date": "2026-08-14T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1238,87 +1310,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-26T00:00:00+05:30",
     "end_date": "2026-08-09T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Department Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-23T00:00:00+05:30",
-    "end_date": "2026-08-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Python Developer Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-20T00:00:00+05:30",
-    "end_date": "2026-08-03T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "GBT Mini CEOs",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-27T00:00:00+05:30",
-    "end_date": "2026-08-15T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Senior Analyst - Tech Consulting",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-25T00:00:00+05:30",
-    "end_date": "2026-08-08T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Puzzle Masters Hackathon 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-26T00:00:00+05:30",
-    "end_date": "2026-08-23T10:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Analyst, Technology Controls Advisory, Audit and Assurance",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-26T00:00:00+05:30",
-    "end_date": "2026-08-09T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Trivium 2.0",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-29T00:00:00+05:30",
-    "end_date": "2026-08-14T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Specialist 3 - Managed Services",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-17T00:00:00+05:30",
-    "end_date": "2026-08-14T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Free Finance Career Lounge Session",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-23T00:00:00+05:30",
-    "end_date": "2026-08-20T00:00:00+05:30",
     "location": "",
     "college": ""
   }

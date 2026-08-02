@@ -1,5 +1,14 @@
 [
   {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,20 @@
     "college": ""
   },
   {
-    "name": "Canva Designer",
+    "name": "Web-Forge",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
+    "start_date": "2026-08-02T00:00:00+05:30",
+    "end_date": "2026-08-09T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-31T19:10:36+05:30",
+    "end_date": "2026-08-15T19:10:24+05:30",
     "location": "",
     "college": ""
   },
@@ -171,7 +189,7 @@
     "college": ""
   },
   {
-    "name": "AI & ML Challenge 2026: Foundations Quiz",
+    "name": "Omnikon AI & ML Challenge 2026: Foundations Quiz",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-03T00:00:00+05:30",
@@ -311,15 +329,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-02T00:00:00+05:30",
     "end_date": "2026-08-16T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-31T19:10:36+05:30",
-    "end_date": "2026-08-15T19:10:24+05:30",
     "location": "",
     "college": ""
   },
@@ -1193,15 +1202,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-01T00:00:00+05:30",
     "end_date": "2026-08-15T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Digital Marketing & Content Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-31T00:00:00+05:30",
-    "end_date": "2026-08-15T20:09:57+05:30",
     "location": "",
     "college": ""
   }

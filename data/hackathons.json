@@ -27,6 +27,96 @@
     "college": ""
   },
   {
+    "name": "UdbhavX 2.0 The Pitching Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-11T00:00:00+05:30",
+    "end_date": "2026-08-25T16:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Software Development Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-10T00:00:00+05:30",
+    "end_date": "2026-08-24T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Startup Premier League",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-11T02:00:00+05:30",
+    "end_date": "2026-09-11T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Mash Up Brand Creation",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-11T02:00:00+05:30",
+    "end_date": "2026-09-11T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Pitch Perfect",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-11T02:00:00+05:30",
+    "end_date": "2026-09-11T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Corporate Mafia - The Hunt for the Insider",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-11T02:00:00+05:30",
+    "end_date": "2026-09-11T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Content Creation Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-10T00:00:00+05:30",
+    "end_date": "2026-08-24T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Executive - OTC Division",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-11T07:45:31+05:30",
+    "end_date": "2026-08-24T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Brand Roast – Pitch It or Roast It",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-11T02:00:00+05:30",
+    "end_date": "2026-09-11T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Beyond the Brand – Reimagine. Reinvent. Redefine.",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-11T02:00:00+05:30",
+    "end_date": "2026-09-11T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Full Stack Developer Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -351,15 +441,6 @@
     "college": ""
   },
   {
-    "name": "Content Creation Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-10T00:00:00+05:30",
-    "end_date": "2026-08-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Customer Delight Executive",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -370,15 +451,6 @@
   },
   {
     "name": "Customer Success Representative",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-10T00:00:00+05:30",
-    "end_date": "2026-08-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Software Development Engineer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-10T00:00:00+05:30",
@@ -1071,20 +1143,20 @@
     "college": ""
   },
   {
-    "name": "Corporate Decoder",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-12T00:01:00+05:30",
-    "end_date": "2026-09-12T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Engineer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-08T00:00:00+05:30",
     "end_date": "2026-08-22T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Corporate Decoder",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-12T00:01:00+05:30",
+    "end_date": "2026-09-12T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1234,87 +1306,6 @@
   },
   {
     "name": "Sales Calling Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-10T00:00:00+05:30",
-    "end_date": "2026-08-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Biznovator- Innovation Seeds Tomorrow",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-11T01:00:00+05:30",
-    "end_date": "2026-09-12T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Mock OA- 1 || Mining Engineering 2028",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-10T00:00:00+05:30",
-    "end_date": "2026-08-15T01:51:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Audit and Assurance Associate - Data, Analytics and Technology Solutions",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-09T00:00:00+05:30",
-    "end_date": "2026-08-23T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Eureka! Pitching Competition 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-10T00:00:00+05:30",
-    "end_date": "2026-08-15T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "The Crisis Case",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-12T00:00:00+05:30",
-    "end_date": "2026-09-12T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Associate Hardware Engineer (Campus Hire)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-09T00:00:00+05:30",
-    "end_date": "2026-08-23T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Telecalling Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-10T00:00:00+05:30",
-    "end_date": "2026-08-24T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Free Demo on Cyber Security with AI – Quality Thought",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-10T00:00:00+05:30",
-    "end_date": "2026-08-12T18:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Outreach Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-10T00:00:00+05:30",

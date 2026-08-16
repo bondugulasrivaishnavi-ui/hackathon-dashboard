@@ -27,6 +27,24 @@
     "college": ""
   },
   {
+    "name": "Frontend Developer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-14T00:00:00+05:30",
+    "end_date": "2026-08-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Campus Ambassador",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -121,7 +139,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-15T19:43:25+05:30",
-    "end_date": "2026-09-19T20:52:18+05:30",
+    "end_date": "2026-09-15T23:00:13+05:30",
     "location": "",
     "college": ""
   },
@@ -136,15 +154,6 @@
   },
   {
     "name": "Digital Marketing Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Executive",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-14T00:00:00+05:30",
@@ -316,15 +325,6 @@
   },
   {
     "name": "Backend Developer Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-16T00:00:00+05:30",
-    "end_date": "2026-08-30T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Frontend Developer Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-16T00:00:00+05:30",
@@ -1193,24 +1193,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-15T00:00:00+05:30",
     "end_date": "2026-08-30T18:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Cybersecurity Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Personal Banker",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
     "location": "",
     "college": ""
   }

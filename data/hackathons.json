@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,56 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Sales Development Representative Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-14T00:00:00+05:30",
+    "end_date": "2026-08-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "ML Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Product Marketing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-14T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Campus Ambassador Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-14T00:00:00+05:30",
+    "end_date": "2026-08-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Data Science Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -104,15 +158,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-15T00:00:00+05:30",
     "end_date": "2026-08-22T01:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -221,15 +266,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-15T00:00:00+05:30",
     "end_date": "2026-08-29T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Campus Ambassador Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1103,69 +1139,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-07-15T00:00:00+05:30",
     "end_date": "2026-08-30T10:01:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Supply Chain Track - Kenvue Future Leader Identification Program 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T10:00:52+05:30",
-    "end_date": "2026-09-03T22:13:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "A Day at IIM Indore",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-07-14T16:29:18+05:30",
-    "end_date": "2026-08-28T00:00:41+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "I D Q",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-14T21:20:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "The Trust Economy Challenge: Super App or Super Mess?",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-12T00:00:00+05:30",
-    "end_date": "2026-09-12T15:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Challenge of Digital Marketing",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T13:00:00+05:30",
-    "end_date": "2026-08-17T12:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Campus Growth Challenge 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-13T00:00:00+05:30",
-    "end_date": "2026-08-31T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Software Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
     "location": "",
     "college": ""
   }

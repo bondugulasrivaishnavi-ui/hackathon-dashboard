@@ -1,10 +1,10 @@
 [
   {
-    "name": "Social Media Marketing",
+    "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -18,11 +18,155 @@
     "college": ""
   },
   {
-    "name": "Canva Designer",
+    "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Z0d1ak CTF",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-12T00:00:00+05:30",
+    "end_date": "2026-08-23T09:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Peer Ambassador Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "NIMS MUN 1.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-15T00:00:00+05:30",
+    "end_date": "2026-09-19T19:15:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "HR Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-14T00:00:00+05:30",
+    "end_date": "2026-08-28T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Trip Operations Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Interior Design Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-15T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "HR Operations Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Live Project Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Technical Associate Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "EUREKA! 2026 – Startup Pitching Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-19T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Cold Outreach & Business Development Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Table Tennis (Men's Singles)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Badminton (Men's Singles)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Table Tennis (Men's Doubles)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-30T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Next Gen Pitch 2026 Edition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-08-20T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Pirate’s Flag – Capture the Flag Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-09-10T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -293,15 +437,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-15T00:00:00+05:30",
     "end_date": "2026-08-22T19:30:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HR Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -579,8 +714,8 @@
     "name": "Executive Secretary",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
+    "start_date": "2026-08-15T00:00:00+05:30",
+    "end_date": "2026-08-29T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1054,105 +1189,6 @@
   },
   {
     "name": "Product Analyst Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Video Editor & Creator Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-10T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Emerge 6.0 - National Level Student Research Journal",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-12T00:00:00+05:30",
-    "end_date": "2026-09-15T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Customer Service Representative – Non-Voice (Chat Support)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Graphic Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "UI/UX Design Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Founder's Office Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-13T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Social Media Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Student Brand Ambassador Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Lead Generation Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "CRM Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-14T00:00:00+05:30",
-    "end_date": "2026-08-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Video Editor",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-14T00:00:00+05:30",

@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,56 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Beyond Application Development: Exploring System Programming",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-08-19T00:00:00+05:30",
+    "end_date": "2026-08-21T00:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Behind the Apps: Engineering for Scale",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-19T00:00:00+05:30",
+    "end_date": "2026-08-21T00:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Scaling Software: What Happens Behind the Screen?",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-19T00:00:00+05:30",
+    "end_date": "2026-08-21T00:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "From Code to Systems: Understanding Low-Level Software Development",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-19T00:00:00+05:30",
+    "end_date": "2026-08-21T00:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "How Modern Backend Systems Handle Millions of Users",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-19T00:00:00+05:30",
+    "end_date": "2026-08-21T00:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Inside System Software: How C/C++ Powers Modern Computing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-19T00:00:00+05:30",
+    "end_date": "2026-08-21T00:01:00+05:30",
     "location": "",
     "college": ""
   },
@@ -49,7 +103,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-19T00:00:00+05:30",
-    "end_date": "2026-09-02T00:00:00+05:30",
+    "end_date": "2026-08-31T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1252,60 +1306,6 @@
   },
   {
     "name": "Customer Service Coordinator",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-19T00:00:00+05:30",
-    "end_date": "2026-09-02T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "F&A Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-17T00:00:00+05:30",
-    "end_date": "2026-08-31T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Verdict",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-12T00:00:00+05:30",
-    "end_date": "2026-09-16T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Associate - GRC (IT)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-19T00:00:00+05:30",
-    "end_date": "2026-09-02T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Associate - (GRC) Commercial and Energy",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-19T00:00:00+05:30",
-    "end_date": "2026-09-02T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Quant Engineer Analyst",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-19T00:00:00+05:30",
-    "end_date": "2026-09-02T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Accounts Executive",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-19T00:00:00+05:30",

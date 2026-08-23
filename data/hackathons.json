@@ -9,6 +9,15 @@
     "college": ""
   },
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,47 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Aerodominator",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-08-16T00:00:00+05:30",
+    "end_date": "2026-09-16T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Founder's Office Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-23T00:00:00+05:30",
+    "end_date": "2026-09-06T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Reddit Engagement Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-23T00:00:00+05:30",
+    "end_date": "2026-09-06T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Field Sales Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-22T00:00:00+05:30",
+    "end_date": "2026-09-05T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "AI Engineering to AI Product Management: Building Real-World AI Solutions",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-23T00:00:00+05:30",
+    "end_date": "2026-08-23T17:01:00+05:30",
     "location": "",
     "college": ""
   },
@@ -171,7 +216,7 @@
     "college": ""
   },
   {
-    "name": "Operations Internship",
+    "name": "Solar Execution & Operations Intern",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-22T00:00:00+05:30",
@@ -217,15 +262,6 @@
   },
   {
     "name": "Business Development & Management Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-22T00:00:00+05:30",
-    "end_date": "2026-09-05T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Field Sales Executive",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-22T00:00:00+05:30",
@@ -1265,51 +1301,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-08-21T00:00:00+05:30",
     "end_date": "2026-09-04T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Presales Specialist",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-21T00:00:00+05:30",
-    "end_date": "2026-09-04T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "IT Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-21T00:00:00+05:30",
-    "end_date": "2026-09-04T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HR Operations Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-21T00:00:00+05:30",
-    "end_date": "2026-09-04T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "The Lam Research Challenge 2026 : E-Cell IIT Bombay X Lam Research X T-Works",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-16T00:00:00+05:30",
-    "end_date": "2026-12-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Codearambh 2.0 – 24-Hour National-Level Hackathon: Dare to Code, Dare to Create",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-21T17:00:00+05:30",
-    "end_date": "2026-09-30T23:59:00+05:30",
     "location": "",
     "college": ""
   }

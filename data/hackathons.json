@@ -27,6 +27,42 @@
     "college": ""
   },
   {
+    "name": "Associate Media Operations",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-30T00:00:00+05:30",
+    "end_date": "2026-09-13T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Junior Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-30T00:00:00+05:30",
+    "end_date": "2026-09-13T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Customer Service Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-31T00:00:00+05:30",
+    "end_date": "2026-09-14T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Web Developer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-31T00:00:00+05:30",
+    "end_date": "2026-09-14T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Frontend Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -414,7 +450,7 @@
     "college": ""
   },
   {
-    "name": "Poetry",
+    "name": "Courtroom Drama",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-01T00:00:00+05:30",
@@ -423,7 +459,7 @@
     "college": ""
   },
   {
-    "name": "Courtroom Drama",
+    "name": "Poetry",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-01T00:00:00+05:30",
@@ -549,15 +585,6 @@
     "college": ""
   },
   {
-    "name": "Battle of Bands",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-01T00:00:00+05:30",
-    "end_date": "2026-10-15T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Solo Singing – Western",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -576,7 +603,7 @@
     "college": ""
   },
   {
-    "name": "Robo Race",
+    "name": "Battle of Bands",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-01T00:00:00+05:30",
@@ -586,6 +613,15 @@
   },
   {
     "name": "Hackathon",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-01T00:00:00+05:30",
+    "end_date": "2026-10-15T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Robo Race",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-01T00:00:00+05:30",
@@ -1256,42 +1292,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-01T00:00:00+05:30",
     "end_date": "2026-10-15T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Branch Sales Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-29T00:00:00+05:30",
-    "end_date": "2026-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Technical Executive Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-29T00:00:00+05:30",
-    "end_date": "2026-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "MBA & Career Growth Conference 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-29T00:00:00+05:30",
-    "end_date": "2026-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Career Growth & Salary Acceleration Workshop 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-29T00:00:00+05:30",
-    "end_date": "2026-09-12T00:00:00+05:30",
     "location": "",
     "college": ""
   }

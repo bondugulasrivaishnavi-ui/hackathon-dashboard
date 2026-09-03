@@ -63,15 +63,6 @@
     "college": ""
   },
   {
-    "name": "RoleCall 2026 - A National Level HR Case Challenge",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-04T11:00:00+05:30",
-    "end_date": "2026-09-07T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Social Media Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -954,20 +945,20 @@
     "college": ""
   },
   {
-    "name": "Associate Catalogue",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-30T00:00:00+05:30",
-    "end_date": "2026-09-13T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Product Marketer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-02T00:00:00+05:30",
     "end_date": "2026-09-16T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Associate Catalogue",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-30T00:00:00+05:30",
+    "end_date": "2026-09-13T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1319,6 +1310,15 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-02T00:00:00+05:30",
     "end_date": "2026-09-17T23:48:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Kernel Prime'26 - 24 Hour Hackathon",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-02T00:00:00+05:30",
+    "end_date": "2026-10-09T12:00:00+05:30",
     "location": "",
     "college": ""
   }

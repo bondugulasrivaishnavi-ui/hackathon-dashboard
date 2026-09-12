@@ -1,14 +1,5 @@
 [
   {
-    "name": "Hands on training on x ray diffractometer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -27,20 +18,515 @@
     "college": ""
   },
   {
-    "name": "The Fluorescent Quiz ",
+    "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-12T00:00:00+05:30",
-    "end_date": "2026-10-07T04:34:00+05:30",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
     "location": "",
     "college": ""
   },
   {
-    "name": "Aether NMRTC Ākhyaan 2026 – Multilingual Article Presentation",
+    "name": "Graphic Designer Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-12T00:00:00+05:30",
-    "end_date": "2026-09-18T23:59:00+05:30",
+    "end_date": "2026-09-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Ideathon",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-01T00:00:00+05:30",
+    "end_date": "2026-10-16T17:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Arts Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-01T00:00:00+05:30",
+    "end_date": "2026-10-17T17:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Music Performance Competition ",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-01T00:00:00+05:30",
+    "end_date": "2026-11-10T00:40:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Digital Design Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-02T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Innovation-X",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-02T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Arduino Imagino",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-02T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Kartavya'26 – National Level Sustainable Case Study Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-13T00:00:00+05:30",
+    "end_date": "2026-09-30T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Soldering Speedrun",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-11T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "36-Hour Hackathon",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-01T00:00:00+05:30",
+    "end_date": "2026-10-17T20:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Chess",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-26T00:00:00+05:30",
+    "end_date": "2026-10-02T22:34:26+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Free Fire",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-02T22:32:58+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "BGMI",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-02T00:00:55+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Neural Nexus",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-10T13:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Film Making Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-01T00:00:00+05:30",
+    "end_date": "2026-10-17T17:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Choreography / Dance Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-01T00:00:00+05:30",
+    "end_date": "2026-10-17T17:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Fashion And Modelling- Ramp Walk",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-01T00:00:00+05:30",
+    "end_date": "2026-11-10T00:16:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Eco Prayog - 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-10-08T17:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Breadboard Battle",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-10T12:04:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Grid Masters-SLD Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-11T11:15:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Mechnovate",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-02T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Designare",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-02T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Fabriquer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-02T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Chemi-Thone",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-02T18:30:00+05:30",
+    "end_date": "2026-10-10T16:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Soap Making",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-02T18:30:00+05:30",
+    "end_date": "2026-10-10T16:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Jam Session",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-02T18:30:00+05:30",
+    "end_date": "2026-10-02T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Chemi-Mystery",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-02T18:30:00+05:30",
+    "end_date": "2026-10-10T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Chemi Craft",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-02T18:30:00+05:30",
+    "end_date": "2026-10-10T16:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Poster and Paper Presentation",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-02T18:30:00+05:30",
+    "end_date": "2026-10-10T16:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Truss Load",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-25T00:00:00+05:30",
+    "end_date": "2026-10-10T20:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "City Model Exhibition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-26T00:00:00+05:30",
+    "end_date": "2026-10-10T20:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Seismic Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-26T00:00:00+05:30",
+    "end_date": "2026-10-10T20:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Lock Stock Trade 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-13T00:00:00+05:30",
+    "end_date": "2026-09-25T15:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "CAD Design Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-26T00:00:00+05:30",
+    "end_date": "2026-10-09T14:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Technical Quiz Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-27T00:00:00+05:30",
+    "end_date": "2026-10-09T17:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Poster Presentation",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-26T00:00:00+05:30",
+    "end_date": "2026-10-10T17:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Marketing / Growth & Community Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-09-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Cognitive Challenges",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-08-26T00:00:00+05:30",
+    "end_date": "2026-10-02T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Big Bull",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-03T00:00:00+05:30",
+    "end_date": "2026-10-02T22:59:16+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "UDYAMI - Connecting Startups and Investors",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-07T00:00:00+05:30",
+    "end_date": "2026-11-01T18:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Kurukshetra CTF",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-10-11T18:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "TechRoom Innovation Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-09-29T22:40:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "BIO-ECONOMY HACKATHON 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-10-05T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Mission NSS — \"Treasure Hunt\"",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-11T00:00:00+05:30",
+    "end_date": "2026-09-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Best Out of Waste",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-11T00:00:00+05:30",
+    "end_date": "2026-09-23T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Graffiti Competition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-09-16T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Real-Life Shark Tank — Health, Hygiene & Environment",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-11T00:00:00+05:30",
+    "end_date": "2026-09-23T11:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Ecquizzite 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-08T11:29:12+05:30",
+    "end_date": "2026-10-08T18:00:15+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "FinVerse: Crack the Financial Code - 8",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-13T09:00:07+05:30",
+    "end_date": "2026-09-14T23:59:07+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "FinNomal Q3: Call For Articles",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-10-10T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Ethical Hacking for Beginners | 3-Hour Practical Cybersecurity Workshop by Arysec Academy",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-09-17T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Outreach & Growth Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-09-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Gyanotsav 6.0 – Spot the HR Blunder | HR",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-10-01T00:00:33+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Graphic Designing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T20:46:34+05:30",
+    "end_date": "2026-09-26T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Fluorescent Quiz ",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-10-10T21:09:55+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "NMRTC Ākhyaan 2026 – Multilingual Article Presentation",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-12T00:00:00+05:30",
+    "end_date": "2026-09-30T17:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -99,7 +585,7 @@
     "college": ""
   },
   {
-    "name": "Aether NSC-ETT Paper Presentation",
+    "name": "NSC-ETT Paper Presentation",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-12T00:00:00+05:30",
@@ -174,8 +660,8 @@
     "name": "Full Stack Developer Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T22:25:57+05:30",
-    "end_date": "2026-09-25T22:25:57+05:30",
+    "start_date": "2026-09-11T00:00:00+05:30",
+    "end_date": "2026-09-25T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -237,8 +723,8 @@
     "name": "Marketing Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T00:00:00+05:30",
-    "end_date": "2026-09-25T23:59:59+05:30",
+    "start_date": "2026-09-05T00:00:00+05:30",
+    "end_date": "2026-09-17T01:08:00+05:30",
     "location": "",
     "college": ""
   },
@@ -257,15 +743,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-12T00:00:00+05:30",
     "end_date": "2026-09-26T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "The Neural Nexus",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-25T00:00:00+05:30",
-    "end_date": "2026-10-10T13:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -463,7 +940,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-03T13:00:00+05:30",
-    "end_date": "2026-09-25T18:30:00+05:30",
+    "end_date": "2026-10-02T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -527,15 +1004,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-02T18:31:00+05:30",
     "end_date": "2026-10-09T13:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Graphic Designer Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-12T00:00:00+05:30",
-    "end_date": "2026-09-26T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -887,474 +1355,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-12T00:00:00+05:30",
     "end_date": "2026-09-14T23:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Agenticthon 2026 – AI & Agentic Technology Hackathon",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-12T00:00:00+05:30",
-    "end_date": "2026-09-22T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From College to Cloud: Building Your Career in Cloud Engineering",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:17:46+05:30",
-    "end_date": "2026-09-14T23:19:04+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Gen AI: Transforming the Way We Work and Learn",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:19:04+05:30",
-    "end_date": "2026-09-15T10:20:19+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "What Engineering Students Actually Need to Get Hired",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:13:08+05:30",
-    "end_date": "2026-09-14T23:13:24+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Before You Become a Founder: What Students Get Wrong About Starting Up",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:13:31+05:30",
-    "end_date": "2026-09-14T23:13:38+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Seeking Alpha: Portfolio Management Competition 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-12T00:00:13+05:30",
-    "end_date": "2026-09-19T15:00:49+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Fresher to Full-Stack: Building Strong Engineering Skills with AI",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:15:39+05:30",
-    "end_date": "2026-09-14T23:15:47+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Cracking Technical Interviews: A Practical Guide for College Students",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:12:51+05:30",
-    "end_date": "2026-09-14T23:13:04+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Think N' Link",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-10T00:00:00+05:30",
-    "end_date": "2026-09-19T14:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Behind the Product: A Backend Engineer's View of Modern Applications",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:14:11+05:30",
-    "end_date": "2026-09-14T23:14:19+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Strategos 2026: Article Writing Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T22:04:54+05:30",
-    "end_date": "2026-09-28T22:03:19+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Data Engineering Roadmap: From Learning to Industry",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:14:23+05:30",
-    "end_date": "2026-09-14T23:14:41+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Classroom to Codebase: Understanding Real Software Engineering",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:15:03+05:30",
-    "end_date": "2026-09-14T23:15:11+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Wrong Idea Wins",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-09T00:00:00+05:30",
-    "end_date": "2026-09-19T12:30:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Your First 90 Days in Software Engineering",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:02:22+05:30",
-    "end_date": "2026-09-14T23:02:31+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "OpsMagnum 2026 - The Article Writing Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T05:00:29+05:30",
-    "end_date": "2026-10-01T23:59:49+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Building Your Software Career with Real-World Engineering Skills",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:02:59+05:30",
-    "end_date": "2026-09-14T23:02:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Beyond the Startup Idea: What It Really Takes to Build a Business",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:04:32+05:30",
-    "end_date": "2026-09-14T23:04:41+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Nazariya 2026 - Article Writing Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T22:00:29+05:30",
-    "end_date": "2026-09-29T22:00:42+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Beyond Academics: Building an Industry-Ready Profile",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:05:01+05:30",
-    "end_date": "2026-09-14T23:06:19+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Build for Billions",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-12T00:00:00+05:30",
-    "end_date": "2026-09-24T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Beyond Coding: How to Prepare for Your First Technical Interview",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:05:25+05:30",
-    "end_date": "2026-09-14T23:05:38+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Code to Systems: Understanding Low-Level Software Development",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:00:54+05:30",
-    "end_date": "2026-09-14T23:02:03+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Ec Talkies",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-09T00:00:00+05:30",
-    "end_date": "2026-09-18T00:00:18+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Breaking Into Data Engineering: Skills That Make You Stand Out",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:56:20+05:30",
-    "end_date": "2026-09-14T21:56:42+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Code to Copilot: How AI Is Changing Software Development",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T22:57:52+05:30",
-    "end_date": "2026-09-14T22:58:52+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Java Development to Intelligent Applications",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T22:58:17+05:30",
-    "end_date": "2026-09-14T22:59:35+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Scaling Software: What Happens Behind the Screen?",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T22:59:25+05:30",
-    "end_date": "2026-09-14T23:00:33+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "IITB Techfest",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T00:00:00+05:30",
-    "end_date": "2026-09-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Smarter Development: A Fresher's Guide to Modern Software Engineering",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:01:47+05:30",
-    "end_date": "2026-09-14T23:02:04+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "The Future of Work in an AI-Driven Industry",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T23:01:27+05:30",
-    "end_date": "2026-09-14T23:01:42+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Storypreneur 2026 The Article Writing Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T00:00:56+05:30",
-    "end_date": "2026-10-10T23:59:56+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Your Roadmap to Becoming a Cloud Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T22:57:11+05:30",
-    "end_date": "2026-09-14T22:58:29+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Transforming Ideas into Intelligence",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:48:16+05:30",
-    "end_date": "2026-09-15T08:15:23+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "36-Hour Hackathon",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-01T00:00:00+05:30",
-    "end_date": "2026-10-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "InnoQuest 2026 - The Article Writing Competition",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-12T09:00:45+05:30",
-    "end_date": "2026-10-01T23:59:02+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From College to Interview Room: Building Your Technical Preparation",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:58:37+05:30",
-    "end_date": "2026-09-14T21:58:57+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Beyond Application Development: Exploring System Programming",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:49:37+05:30",
-    "end_date": "2026-09-14T21:51:31+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HireVerse",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-10T00:00:00+05:30",
-    "end_date": "2026-09-19T13:30:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "How AI Is Reshaping the Modern Workplace",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:51:39+05:30",
-    "end_date": "2026-09-14T21:51:57+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Placement to Professional: Life as a Software Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:55:03+05:30",
-    "end_date": "2026-09-14T21:55:19+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Chrono Circuit",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-09T00:00:00+05:30",
-    "end_date": "2026-09-19T13:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Inside the Software Industry: Skills, Practices & Career Growth",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:55:48+05:30",
-    "end_date": "2026-09-14T21:56:09+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Java Meets Generative AI: Building the Next Generation of Software",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:46:51+05:30",
-    "end_date": "2026-09-14T21:48:18+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "PARANOVA",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-09T00:00:00+05:30",
-    "end_date": "2026-09-14T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "The Modern Developer's Toolkit: Learning and Building with AI",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:53:41+05:30",
-    "end_date": "2026-09-14T21:54:07+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "AI-Powered Coding: The New Way Developers Build Software",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:46:07+05:30",
-    "end_date": "2026-09-14T21:47:48+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Behind the Apps: Engineering for Scale",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:48:53+05:30",
-    "end_date": "2026-09-14T21:50:15+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Beyond the Classroom: Skills for a Career in Cloud",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T21:44:21+05:30",
-    "end_date": "2026-09-14T21:45:39+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Field Sales Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-12T09:48:15+05:30",
-    "end_date": "2026-09-25T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Heuristic Havoc",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-08-25T00:00:00+05:30",
-    "end_date": "2026-10-10T19:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Data Analyst Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-11T00:00:00+05:30",
-    "end_date": "2026-09-25T23:59:59+05:30",
     "location": "",
     "college": ""
   }

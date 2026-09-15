@@ -1,5 +1,14 @@
 [
   {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,56 @@
     "college": ""
   },
   {
-    "name": "Canva Designer",
+    "name": "IIT Bombay's Robotics Workshop",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
+    "start_date": "2026-09-13T00:00:00+05:30",
+    "end_date": "2026-09-29T03:20:25+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Data Science Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T00:00:00+05:30",
+    "end_date": "2026-09-29T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Field Executive Officer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T00:00:00+05:30",
+    "end_date": "2026-09-29T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Senior HR Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T00:00:00+05:30",
+    "end_date": "2026-09-29T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-14T00:00:00+05:30",
+    "end_date": "2026-09-28T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Research Internship- AI Infrastructure",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T00:00:00+05:30",
+    "end_date": "2026-09-29T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -238,7 +292,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-14T00:00:00+05:30",
-    "end_date": "2026-09-26T00:00:00+05:30",
+    "end_date": "2026-09-30T09:52:00+05:30",
     "location": "",
     "college": ""
   },
@@ -482,15 +536,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-14T00:00:12+05:30",
     "end_date": "2026-09-16T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Hack N Build",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-09T00:00:00+05:30",
-    "end_date": "2026-10-07T18:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1324,42 +1369,6 @@
   },
   {
     "name": "Associate - Operations",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-13T00:00:00+05:30",
-    "end_date": "2026-09-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Process Associate- Customer Care",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-13T00:00:00+05:30",
-    "end_date": "2026-09-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Silicon Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-13T00:00:00+05:30",
-    "end_date": "2026-09-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Application Engineering Intern",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-13T00:00:00+05:30",
-    "end_date": "2026-09-27T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Analyst",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-13T00:00:00+05:30",

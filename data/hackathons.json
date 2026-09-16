@@ -1,14 +1,5 @@
 [
   {
-    "name": "Canva Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +9,83 @@
     "college": ""
   },
   {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-08-27T00:00:00+05:30",
     "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Building Products at Scale: The Engineering Behind the Experience",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T22:20:00+05:30",
+    "end_date": "2026-09-18T22:20:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Scaling Software: What Happens Behind the Screen?",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T20:33:32+05:30",
+    "end_date": "2026-09-18T20:34:54+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Behind the Product: A Backend Engineer's View of Modern Applications",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T20:16:32+05:30",
+    "end_date": "2026-09-18T20:17:04+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The AI Transformation of Work: Inside Modern Tech Teams",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T20:12:18+05:30",
+    "end_date": "2026-09-18T20:12:40+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Building AI-Powered Applications with Java and Generative AI",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T20:10:54+05:30",
+    "end_date": "2026-09-18T20:11:24+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Building Your Software Career with Real-World Engineering Skills",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T20:37:51+05:30",
+    "end_date": "2026-09-18T20:38:05+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Beyond the Startup Idea: What It Really Takes to Build a Business",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-15T20:39:07+05:30",
+    "end_date": "2026-09-18T20:39:31+05:30",
     "location": "",
     "college": ""
   },
@@ -445,7 +508,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-15T00:00:00+05:30",
-    "end_date": "2026-10-08T21:00:00+05:30",
+    "end_date": "2026-10-15T21:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1328,69 +1391,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-15T00:00:00+05:30",
     "end_date": "2026-09-29T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Beyond the Classroom: Skills for a Career in Cloud",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-15T00:00:00+05:30",
-    "end_date": "2026-09-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Transforming Ideas into Intelligence",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-15T00:00:00+05:30",
-    "end_date": "2026-09-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Behind the Apps: Engineering for Scale",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-15T00:00:00+05:30",
-    "end_date": "2026-09-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Campus to Career: Skills That Make You Job-Ready",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-15T00:00:00+05:30",
-    "end_date": "2026-09-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Sales Executive Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-15T00:00:00+05:30",
-    "end_date": "2026-09-29T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Idea to Application: What Happens Behind the Scenes",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-15T00:00:00+05:30",
-    "end_date": "2026-09-18T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Breaking Into Data Engineering: Skills That Make You Stand Out",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-15T00:00:00+05:30",
-    "end_date": "2026-09-18T00:00:00+05:30",
     "location": "",
     "college": ""
   }

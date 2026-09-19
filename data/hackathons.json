@@ -1,5 +1,14 @@
 [
   {
+    "name": "Social Media Marketing",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2023-02-27T00:00:00+05:30",
+    "end_date": "2023-03-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -18,11 +27,74 @@
     "college": ""
   },
   {
-    "name": "Social Media Marketing",
+    "name": "Robo Race",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2023-02-27T00:00:00+05:30",
-    "end_date": "2023-03-03T00:00:00+05:30",
+    "start_date": "2026-09-10T00:00:00+05:30",
+    "end_date": "2026-09-24T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Plan Competition – From Idea to Market",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-05T00:00:00+05:30",
+    "end_date": "2026-10-19T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Hyrox Arena",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-20T00:01:00+05:30",
+    "end_date": "2026-09-29T11:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Ideaverse - Ideathon 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-20T00:00:00+05:30",
+    "end_date": "2026-09-30T00:01:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Code AvengersS 2026 – Coding & Debugging Challenge",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-19T00:00:00+05:30",
+    "end_date": "2026-10-03T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Nakshatra - The Aerospace Hackathon 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-09T00:00:00+05:30",
+    "end_date": "2026-10-25T18:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Kaaryavarta & Incub8",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-19T00:00:00+05:30",
+    "end_date": "2026-10-24T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "A Conversation with Delhi’s RJs: On Air, Online & Beyond",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-19T20:00:00+05:30",
+    "end_date": "2026-09-21T06:29:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1310,78 +1382,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-19T10:55:48+05:30",
     "end_date": "2026-09-22T10:55:58+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "IndiaStox Nifty Midcap 100 Predictions Challenge",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-19T12:00:00+05:30",
-    "end_date": "2026-09-26T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "IndiaStox Nifty50 Predictions Challenge",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-19T12:00:14+05:30",
-    "end_date": "2026-09-25T23:39:51+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Embedded & Systems Software: How Engineering Meets Real-World Products",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-19T11:39:00+05:30",
-    "end_date": "2026-09-22T11:40:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Executive (BDE)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-19T00:00:00+05:30",
-    "end_date": "2026-10-03T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "US Business Development Voice Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-19T00:00:00+05:30",
-    "end_date": "2026-10-03T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "HR Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-19T00:00:00+05:30",
-    "end_date": "2026-10-03T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Student to Data Engineer: Building an Industry-Ready Career",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-19T10:34:44+05:30",
-    "end_date": "2026-09-22T10:35:07+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Building Products at Scale: The Engineering Behind the Experience",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-19T10:35:41+05:30",
-    "end_date": "2026-09-22T10:35:55+05:30",
     "location": "",
     "college": ""
   }

@@ -1,14 +1,5 @@
 [
   {
-    "name": "Hands on training on x ray diffractometer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -23,6 +14,42 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-11-01T00:00:00+05:30",
     "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Hands on training on x ray diffractometer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales & Marketing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-23T00:00:00+05:30",
+    "end_date": "2026-10-07T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "GenAI Developer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-23T00:00:00+05:30",
+    "end_date": "2026-10-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Drishti",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-24T00:00:00+05:30",
+    "end_date": "2026-10-09T17:30:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1026,7 +1053,7 @@
     "college": ""
   },
   {
-    "name": "Codestar 30 — National-Level Hackathon",
+    "name": "Code star 30 — National-Level Hackathon",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-23T03:30:00+05:30",
@@ -1355,33 +1382,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-19T00:00:00+05:30",
     "end_date": "2026-09-30T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Quantum Gaming Competition – QLudo",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-23T00:00:00+05:30",
-    "end_date": "2026-10-04T23:59:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business AI Engineer Intern",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-22T00:00:00+05:30",
-    "end_date": "2026-10-06T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Voice Support Operations Associate",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-22T00:00:00+05:30",
-    "end_date": "2026-10-06T00:00:00+05:30",
     "location": "",
     "college": ""
   }

@@ -720,11 +720,11 @@
     "college": ""
   },
   {
-    "name": "Tycoon's Gambit 2026",
+    "name": "Bid It Like Beckham 2026",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-25T00:00:15+05:30",
-    "end_date": "2026-11-30T23:59:32+05:30",
+    "start_date": "2026-09-24T22:36:50+05:30",
+    "end_date": "2026-11-30T10:36:33+05:30",
     "location": "",
     "college": ""
   },
@@ -747,20 +747,11 @@
     "college": ""
   },
   {
-    "name": "Bid It Like Beckham 2026",
+    "name": "Tycoon's Gambit 2026",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-24T22:36:50+05:30",
-    "end_date": "2026-11-30T10:36:33+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Societas - Sustainability Flagship Event 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-25T00:00:10+05:30",
-    "end_date": "2026-11-30T23:59:10+05:30",
+    "start_date": "2026-09-25T00:00:15+05:30",
+    "end_date": "2026-11-30T23:59:32+05:30",
     "location": "",
     "college": ""
   },
@@ -770,6 +761,15 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-24T22:24:49+05:30",
     "end_date": "2026-11-30T03:54:06+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Societas - Sustainability Flagship Event 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-25T00:00:10+05:30",
+    "end_date": "2026-11-30T23:59:10+05:30",
     "location": "",
     "college": ""
   },

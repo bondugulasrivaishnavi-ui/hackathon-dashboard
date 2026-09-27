@@ -1,14 +1,5 @@
 [
   {
-    "name": "Hands on training on x ray diffractometer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -23,6 +14,15 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-11-01T00:00:00+05:30",
     "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Hands on training on x ray diffractometer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -85,7 +85,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-25T00:00:00+05:30",
-    "end_date": "2026-10-09T00:00:00+05:30",
+    "end_date": "2026-10-10T00:00:00+05:30",
     "location": "",
     "college": ""
   },
@@ -140,15 +140,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-26T00:00:00+05:30",
     "end_date": "2026-10-13T12:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Vihaan X: Hardware Track",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-01T00:00:00+05:30",
-    "end_date": "2026-11-09T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -648,15 +639,6 @@
     "college": ""
   },
   {
-    "name": "Back To The Roots-2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-25T03:00:33+05:30",
-    "end_date": "2026-11-30T18:29:33+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Circus Maximus - Marketing Flagship Event - 2026",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -671,6 +653,15 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-25T12:08:56+05:30",
     "end_date": "2026-11-30T00:08:02+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Back To The Roots-2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-25T03:00:33+05:30",
+    "end_date": "2026-11-30T18:29:33+05:30",
     "location": "",
     "college": ""
   },
@@ -720,6 +711,42 @@
     "college": ""
   },
   {
+    "name": "Societas - Sustainability Flagship Event 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-25T00:00:10+05:30",
+    "end_date": "2026-11-30T23:59:10+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Tycoon's Gambit 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-25T00:00:15+05:30",
+    "end_date": "2026-11-30T23:59:32+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sci-Biz-Tech -2026 (XLRI)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-24T22:18:10+05:30",
+    "end_date": "2026-11-29T22:17:23+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Elevator Pitch: The B-Plan Event 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-24T22:24:49+05:30",
+    "end_date": "2026-11-30T03:54:06+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Bid It Like Beckham 2026",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -734,42 +761,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-25T00:00:22+05:30",
     "end_date": "2026-11-30T23:59:22+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Sci-Biz-Tech -2026 (XLRI)",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-24T22:18:10+05:30",
-    "end_date": "2026-11-29T22:17:23+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Tycoon's Gambit 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-25T00:00:15+05:30",
-    "end_date": "2026-11-30T23:59:32+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Elevator Pitch: The B-Plan Event 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-24T22:24:49+05:30",
-    "end_date": "2026-11-30T03:54:06+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Societas - Sustainability Flagship Event 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-09-25T00:00:10+05:30",
-    "end_date": "2026-11-30T23:59:10+05:30",
     "location": "",
     "college": ""
   },
@@ -1391,6 +1382,15 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-09-25T23:29:21+05:30",
     "end_date": "2026-09-29T23:30:21+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "UpForge Startup IQ Challenge 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-09-25T00:00:00+05:30",
+    "end_date": "2026-10-31T00:00:00+05:30",
     "location": "",
     "college": ""
   }

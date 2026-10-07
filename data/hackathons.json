@@ -1,5 +1,14 @@
 [
   {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -14,15 +23,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-08-27T00:00:00+05:30",
     "end_date": "2024-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Canva Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -909,15 +909,6 @@
     "college": ""
   },
   {
-    "name": "Coding Is Changing — So What Should Engineers Learn Next?",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-06T09:59:42+05:30",
-    "end_date": "2026-10-09T10:00:20+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Engineering to Industry: Building Skills That Actually Matter",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -927,11 +918,11 @@
     "college": ""
   },
   {
-    "name": "From Learning to Getting Hired: Preparing for the AI-Driven Tech Industry",
+    "name": "Coding Is Changing — So What Should Engineers Learn Next?",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-06T09:57:44+05:30",
-    "end_date": "2026-10-09T09:58:16+05:30",
+    "start_date": "2026-10-06T09:59:42+05:30",
+    "end_date": "2026-10-09T10:00:20+05:30",
     "location": "",
     "college": ""
   },
@@ -945,20 +936,11 @@
     "college": ""
   },
   {
-    "name": "Inside the Software Industry: Skills, Practices & Career Growth",
+    "name": "From Learning to Getting Hired: Preparing for the AI-Driven Tech Industry",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-06T10:07:29+05:30",
-    "end_date": "2026-10-09T10:07:55+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "From Placement to Professional: Life as a Software Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-06T10:05:37+05:30",
-    "end_date": "2026-10-09T10:06:11+05:30",
+    "start_date": "2026-10-06T09:57:44+05:30",
+    "end_date": "2026-10-09T09:58:16+05:30",
     "location": "",
     "college": ""
   },
@@ -972,11 +954,20 @@
     "college": ""
   },
   {
-    "name": "Breaking Into Data Engineering: Skills That Make You Stand Out",
+    "name": "From Placement to Professional: Life as a Software Engineer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-06T10:08:26+05:30",
-    "end_date": "2026-10-09T10:09:00+05:30",
+    "start_date": "2026-10-06T10:05:37+05:30",
+    "end_date": "2026-10-09T10:06:11+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Inside the Software Industry: Skills, Practices & Career Growth",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-06T10:07:29+05:30",
+    "end_date": "2026-10-09T10:07:55+05:30",
     "location": "",
     "college": ""
   },
@@ -990,20 +981,11 @@
     "college": ""
   },
   {
-    "name": "From College to Interview Room: Building Your Technical Preparation",
+    "name": "Breaking Into Data Engineering: Skills That Make You Stand Out",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-06T10:01:24+05:30",
-    "end_date": "2026-10-09T10:01:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Beyond Application Development: Exploring System Programming",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-06T10:03:02+05:30",
-    "end_date": "2026-10-09T10:03:31+05:30",
+    "start_date": "2026-10-06T10:08:26+05:30",
+    "end_date": "2026-10-09T10:09:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1022,6 +1004,24 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-10-06T10:02:07+05:30",
     "end_date": "2026-10-09T10:02:44+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Beyond Application Development: Exploring System Programming",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-06T10:03:02+05:30",
+    "end_date": "2026-10-09T10:03:31+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "From College to Interview Room: Building Your Technical Preparation",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-06T10:01:24+05:30",
+    "end_date": "2026-10-09T10:01:59+05:30",
     "location": "",
     "college": ""
   },

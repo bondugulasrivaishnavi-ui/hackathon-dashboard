@@ -1,14 +1,5 @@
 [
   {
-    "name": "Hands on training on x ray diffractometer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Social Media Marketing",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -23,6 +14,60 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-11-01T00:00:00+05:30",
     "end_date": "2025-02-01T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Hands on training on x ray diffractometer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "AUTO - ENERBOT (Hands-on Workshop on building Autonomous Robot for Intelligent Energy Optimisation)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-16T00:00:00+05:30",
+    "end_date": "2026-10-25T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Agentic AI Hackathon",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-16T07:00:00+05:30",
+    "end_date": "2026-10-25T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Good, The Bad, and The Business: Sustainability Track",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-16T00:00:00+05:30",
+    "end_date": "2026-11-15T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Good, The Bad and The Business: HR Track",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-16T00:00:00+05:30",
+    "end_date": "2026-11-15T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "The Good, The Bad, and The Business: Marketing Track",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-16T00:00:00+05:30",
+    "end_date": "2026-11-15T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -832,7 +877,7 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-10-15T00:00:00+05:30",
-    "end_date": "2026-10-29T00:00:00+05:30",
+    "end_date": "2026-10-29T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -1256,42 +1301,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-10-15T00:00:00+05:30",
     "end_date": "2026-10-28T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Webathon 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-01T00:00:00+05:30",
-    "end_date": "2026-10-19T18:30:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Content Creator Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-15T00:00:00+05:30",
-    "end_date": "2026-10-29T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Hybrid Micro Mouse Challenge",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-13T12:00:39+05:30",
-    "end_date": "2026-10-29T16:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "AI/ML Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-15T10:19:28+05:30",
-    "end_date": "2026-10-29T10:19:28+05:30",
     "location": "",
     "college": ""
   }

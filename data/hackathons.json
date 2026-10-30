@@ -1,10 +1,10 @@
 [
   {
-    "name": "Hands on training on x ray diffractometer",
+    "name": "Canva Designer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-08-27T00:00:00+05:30",
-    "end_date": "2024-09-12T00:00:00+05:30",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -18,11 +18,407 @@
     "college": ""
   },
   {
-    "name": "Canva Designer",
+    "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
+    "start_date": "2024-08-27T00:00:00+05:30",
+    "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Travel & Visa Coordinator (Admin & Travel Desk)",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T00:00:00+05:30",
+    "end_date": "2026-11-12T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Tender Operations & AI Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Campus Marketing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development & Campus Relations Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Stock Wars: The Gamification of Inventory",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-21T00:00:00+05:30",
+    "end_date": "2026-11-11T13:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Windows System Administrator",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Video Creator & Social Media Manager Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Social Media Manager",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Career Counsellor & Administrator",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Inside Sales Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Campus Ambassador Internship – Karnataka",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T12:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "AI/ML Engineer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T00:00:00+05:30",
+    "end_date": "2026-11-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T00:00:00+05:30",
+    "end_date": "2026-11-12T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Battle of Bands",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-10T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Scholarship Test on Cyber Security with AI",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-12T18:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales and Marketing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Deva re Deva | A Quiz on Indian Mythology",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T19:00:00+05:30",
+    "end_date": "2026-11-29T20:35:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "PrAIyaan 4.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-28T12:00:00+05:30",
+    "end_date": "2026-11-15T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Pravartan 2.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T00:00:00+05:30",
+    "end_date": "2026-11-15T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Chrysalis 9.0",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-28T03:00:00+05:30",
+    "end_date": "2026-11-15T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sourcing Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Sales Coordinator",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "ELUCode",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-07-15T00:00:00+05:30",
+    "end_date": "2026-08-15T21:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Associate",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T20:12:32+05:30",
+    "end_date": "2026-11-11T21:53:29+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Campus Ambassador",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T00:00:00+05:30",
+    "end_date": "2026-11-12T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Data Analyst Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T00:00:33+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Marketing Executive",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T00:00:00+05:30",
+    "end_date": "2026-11-12T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Online Sales & Marketing Internship – B2B",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "From Code to Connected Products: Understanding Systems Software",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T10:46:56+05:30",
+    "end_date": "2026-11-12T10:47:56+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Learn, Think, Leverage: Building Your Career in the AI Era",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T10:46:27+05:30",
+    "end_date": "2026-11-12T10:46:27+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Beyond the Classroom: Exploring Android Development & Industry Trends",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T10:45:56+05:30",
+    "end_date": "2026-11-12T10:46:56+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "AI in Modern Tech: Understanding the Bigger Picture",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T10:42:49+05:30",
+    "end_date": "2026-11-12T10:42:49+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Cracking Technical Interviews: A Practical Guide for College Students",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T10:43:36+05:30",
+    "end_date": "2026-11-12T10:44:36+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Product Analyst Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Data Entry Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Business Development Officer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Regional Manager – Marketing & Sales",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Pixel Art Jam – Minecraft Edition",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-07T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Software Development Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-13T23:59:59+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Glideator",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-29T00:00:00+05:30",
+    "end_date": "2026-12-10T23:59:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Startup Expo 2027",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2027-01-24T23:59:00+05:30",
     "location": "",
     "college": ""
   },
@@ -342,24 +738,6 @@
     "college": ""
   },
   {
-    "name": "Business Development Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Sales Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Inside Today's Technology Industry: Data, Software & AI",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -504,15 +882,6 @@
     "college": ""
   },
   {
-    "name": "Sales Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Social Media Marketing Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -568,15 +937,6 @@
   },
   {
     "name": "Area Sales Manager",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Campus Ambassador",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-10-29T00:00:00+05:30",
@@ -734,15 +1094,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-10-26T00:00:00+05:30",
     "end_date": "2026-11-09T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Marketing Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -982,420 +1333,6 @@
   },
   {
     "name": "Staff Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Intern",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Market Research & Tele-Sales Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Graduate Engineering Technician",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "SEO Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Associate Deployment Engineer Graduate Program",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Engineer- Audio Architecture and Systems Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Associate Business Analyst",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Operations",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-13T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "CodeNova India 2026 - National Hackathon",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T06:00:00+05:30",
-    "end_date": "2026-11-22T10:03:54+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "ASIC Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Marketing & Outreach Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Executive Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Cloud Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Full-stack Agentic AI Developer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Associate Engineer, IT Eng System Mgr",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Technical Support Engineer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Data Analytics Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Graduate Engineering Technician, CSM",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business AI Engineer Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Education Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Support Engineer 1",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Engineer, IT EA DHI",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Analyst - API Business ",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-28T00:00:00+05:30",
-    "end_date": "2026-11-11T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Lead Software Engineer-2",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Antennovate 2026 - Rf Student Design Contest",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-20T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Campus Business Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Operations Executive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "GolfAI HIring Drive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "App Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": " IFindLife LLP Hiring Drive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Patent Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "PulseOne - Hiring Drive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Mochive IT Solutions - Hiring Drive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Product Management MLP",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Souli - Hiring Drive",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Sales & Marketing Intern",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-13T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Marketing & Brand Growth Developer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-13T00:01:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Forward Deployed Engineer – Trainee",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Business Development Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-04T23:53:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Sales Manager - Mumbai",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Sales Manager - Faridabad",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Sales Manager - Hyderabad",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Sales Manager - Tiruppur",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Applications Engineer I",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-12T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Product Order Engineer I",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-10-29T00:00:00+05:30",

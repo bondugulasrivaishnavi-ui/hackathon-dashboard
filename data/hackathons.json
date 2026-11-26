@@ -1,19 +1,19 @@
 [
   {
-    "name": "Canva Designer",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2024-11-01T00:00:00+05:30",
-    "end_date": "2025-02-01T23:59:59+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Hands on training on x ray diffractometer",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2024-08-27T00:00:00+05:30",
     "end_date": "2024-09-12T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Canva Designer",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2024-11-01T00:00:00+05:30",
+    "end_date": "2025-02-01T23:59:59+05:30",
     "location": "",
     "college": ""
   },
@@ -27,11 +27,56 @@
     "college": ""
   },
   {
+    "name": "UNIVION: CHRONOS DE NOVO",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-11-25T00:00:00+05:30",
+    "end_date": "2027-01-16T19:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "NextGen Tech Quiz 2026",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-11-25T00:00:00+05:30",
+    "end_date": "2026-12-10T14:57:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Building Intelligent NLP Applications with Hugging Face Transformers",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-11-25T15:15:00+05:30",
+    "end_date": "2026-11-28T18:30:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Snow Code",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-11-25T00:00:00+05:30",
+    "end_date": "2026-12-11T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
+    "name": "Back End Developer Internship",
+    "source": "Unstop",
+    "source_url": "https://unstop.com/undefined",
+    "start_date": "2026-11-26T10:00:55+05:30",
+    "end_date": "2026-12-10T00:00:00+05:30",
+    "location": "",
+    "college": ""
+  },
+  {
     "name": "Finaholics Concord Case Competition",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-11-26T00:00:00+05:30",
-    "end_date": "2026-11-30T00:00:00+05:30",
+    "end_date": "2026-12-11T00:55:00+05:30",
     "location": "",
     "college": ""
   },
@@ -675,15 +720,6 @@
     "college": ""
   },
   {
-    "name": "NextGen Tech Quiz 2026",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-11-25T00:00:00+05:30",
-    "end_date": "2026-12-10T14:57:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Content Designer and Social Media Marketing Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
@@ -743,15 +779,6 @@
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-11-25T00:00:00+05:30",
     "end_date": "2026-12-09T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Building Intelligent NLP Applications with Hugging Face Transformers",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-11-25T15:15:00+05:30",
-    "end_date": "2026-11-28T18:30:00+05:30",
     "location": "",
     "college": ""
   },
@@ -846,29 +873,11 @@
     "college": ""
   },
   {
-    "name": "Business Development Manager - International Markets",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-11-25T00:00:00+05:30",
-    "end_date": "2026-12-09T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
     "name": "Founder's Office Internship",
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-11-25T00:00:00+05:30",
     "end_date": "2026-11-30T23:55:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "UNIVION: CHRONOS DE NOVO",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-11-25T00:00:00+05:30",
-    "end_date": "2027-01-16T19:30:00+05:30",
     "location": "",
     "college": ""
   },
@@ -1363,15 +1372,6 @@
     "source": "Unstop",
     "source_url": "https://unstop.com/undefined",
     "start_date": "2026-11-25T00:00:00+05:30",
-    "end_date": "2026-12-09T00:00:00+05:30",
-    "location": "",
-    "college": ""
-  },
-  {
-    "name": "Podcast & Research Internship",
-    "source": "Unstop",
-    "source_url": "https://unstop.com/undefined",
-    "start_date": "2026-11-22T00:00:00+05:30",
     "end_date": "2026-12-09T00:00:00+05:30",
     "location": "",
     "college": ""
